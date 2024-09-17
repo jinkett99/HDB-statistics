@@ -1,0 +1,83 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IPython profile
+profile_default/
+
+# Jupyter Notebook configuration
+.jupyter/
+
+# Jupyter runtime
+runtime/
+
+# Output from Jupyter Book builds
+_build/
+
+# pyenv
+.python-version
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs
+*.log
+*.out
+*.err
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*~
+
+# Conda environments
+.conda/
+*.conda
+*.ipynb_checkpoints
+envs/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
