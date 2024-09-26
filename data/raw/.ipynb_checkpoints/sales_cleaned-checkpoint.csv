@@ -1,0 +1,1001 @@
+floor_category,yearmon,sales_date,flat_lease_status,floor,project_name,area_sqft,unit_price_psf,type_of_sale,property_type,completion_status,postal_district,planning_region,planning_area
+"11-20 floor",201901,2019-01-01,Non-Freehold,11,"PARC ESTA",700,1722,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-01,Freehold,3,"THE ADDITION",950,1739,"New Sale","Non-landed Properties",Uncompleted,13,"Central Region","Toa Payoh"
+NULL,201901,2019-01-01,Freehold,NULL,"BELGRAVIA GREEN",3150,863,"New Sale","Terrace House",Uncompleted,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-01,Non-Freehold,3,"PARC ESTA",550,1763,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-02,Non-Freehold,8,"PARC ESTA",500,1808,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-02,Non-Freehold,3,"PARC ROSEWOOD",600,1095,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+NULL,201901,2019-01-02,Non-Freehold,NULL,"SERANGOON GARDEN ESTATE",2650,1343,Resale,"Terrace House",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-02,Non-Freehold,1,"MAYFAIR GARDENS",700,2087,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-02,Freehold,3,"THE NAVIAN",900,1667,"New Sale","Non-landed Properties",Uncompleted,14,"East Region",Bedok
+"1-10 floor",201901,2019-01-02,Non-Freehold,7,"PARC ESTA",450,1783,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-02,Non-Freehold,5,"THE HILLFORD",400,1205,Resale,"Non-landed Properties",Completed,21,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-02,Freehold,11,"THE MARBELLA",1100,1658,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-02,Non-Freehold,5,"LE QUEST",1150,1351,"New Sale","Non-landed Properties",Uncompleted,23,"West Region","Bukit Batok"
+NULL,201901,2019-01-02,Freehold,NULL,"HAPPY ESTATE",7400,946,Resale,"Semi-Detached House",Completed,20,"North East Region","Ang Mo Kio"
+"1-10 floor",201901,2019-01-02,Non-Freehold,4,"HEDGES PARK CONDOMINIUM",500,1125,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-02,Freehold,3,"THE SEAWIND",900,1757,Resale,"Executive Condominium",Completed,15,"East Region",Bedok
+"11-20 floor",201901,2019-01-02,Freehold,11,"NOVA 88",1250,1323,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+"1-10 floor",201901,2019-01-02,Non-Freehold,3,"DOVER PARKVIEW",950,1063,Resale,"Executive Condominium",Completed,5,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-02,Non-Freehold,9,"DUO RESIDENCES",1000,2026,"Sub Sale","Non-landed Properties",Completed,7,"Central Region","Downtown Core"
+"31 - 50 floor",201901,2019-01-02,Non-Freehold,36,ICON,1250,1682,Resale,"Non-landed Properties",Completed,2,"Central Region","Downtown Core"
+"21 - 30 floor",201901,2019-01-02,Non-Freehold,25,"CLOVER BY THE PARK",1750,1235,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-02,Non-Freehold,6,"RIVERSOUND RESIDENCE",1200,1001,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-02,Non-Freehold,4,"THE TRE VER",500,1524,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+NULL,201901,2019-01-02,Freehold,NULL,"DYNASTY GARDEN",1150,1314,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-02,Non-Freehold,16,QUINTERRA,1800,1416,Resale,"Non-landed Properties",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-02,Non-Freehold,2,"KENT RIDGE HILL RESIDENCES",450,1731,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+NULL,201901,2019-01-02,Freehold,NULL,"OPERA ESTATE",3000,1620,Resale,"Detached House",Completed,15,"East Region",Bedok
+"21 - 30 floor",201901,2019-01-02,Freehold,22,"GRAMERCY PARK",2600,3007,Resale,"Executive Condominium",Completed,10,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-02,Non-Freehold,18,"HAZEL PARK CONDOMINIUM",1350,1169,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Panjang"
+"1-10 floor",201901,2019-01-02,Non-Freehold,2,"WHISTLER GRAND",750,1361,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-02,Non-Freehold,11,"THE TRE VER",500,1649,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-02,Non-Freehold,2,PRIVE,800,952,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"21 - 30 floor",201901,2019-01-02,Non-Freehold,22,"H2O RESIDENCES",750,1174,Resale,"Executive Condominium",Completed,28,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-02,Non-Freehold,9,"THE FLORAVALE",1300,642,Resale,"Executive Condominium",Completed,22,"West Region","Jurong West"
+"1-10 floor",201901,2019-01-02,Non-Freehold,1,TERRASSE,800,1164,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-02,Non-Freehold,2,"MAYFAIR GARDENS",1050,1900,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-02,Freehold,1,"THE QUINN",1150,1402,Resale,"Non-landed Properties",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-02,Non-Freehold,9,"THE ESPARIS",1200,767,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-02,Freehold,2,NORTHWOOD,1350,877,Resale,"Executive Condominium",Completed,27,"North Region",Mandai
+"1-10 floor",201901,2019-01-02,Non-Freehold,9,"THE CHUAN",1300,1546,Resale,"Executive Condominium",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-02,Non-Freehold,6,"SANT RITZ",1100,1542,Resale,"Executive Condominium",Completed,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-02,Freehold,9,"CHANGI GREEN",1350,1152,Resale,"Executive Condominium",Completed,16,"East Region",Tampines
+"1-10 floor",201901,2019-01-02,Freehold,5,"MERIDIAN 38",1950,1174,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"21 - 30 floor",201901,2019-01-02,Freehold,22,"THE MARBELLA",2950,1119,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-02,Non-Freehold,2,"NIN RESIDENCE",450,1539,Resale,"Non-landed Properties",Completed,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-02,Non-Freehold,6,"RIVERFRONT RESIDENCES",450,1305,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+NULL,201901,2019-01-02,Non-Freehold,NULL,"SERANGOON GARDEN ESTATE",4750,1130,Resale,"Detached House",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-02,Non-Freehold,1,"THE SHORE RESIDENCES",700,1286,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-02,Non-Freehold,7,"RIVERWALK APARTMENTS",1600,1301,Resale,"Non-landed Properties",Completed,1,"Central Region","Singapore River"
+"1-10 floor",201901,2019-01-03,Non-Freehold,5,"THE CENTREPOINT",750,2558,Resale,"Non-landed Properties",Completed,9,"Central Region",Orchard
+"11-20 floor",201901,2019-01-03,Non-Freehold,11,"COMPASS HEIGHTS",1300,884,Resale,"Non-landed Properties",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-03,Non-Freehold,17,"THE SCALA",1800,1162,Resale,"Non-landed Properties",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-03,Freehold,2,CASCADALE,1500,928,Resale,"Executive Condominium",Completed,16,"East Region",Tampines
+"1-10 floor",201901,2019-01-03,Non-Freehold,3,"PARC ESTA",700,1677,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-03,Non-Freehold,7,"CASTLE GREEN",1150,868,Resale,"Executive Condominium",Completed,26,"North East Region","Ang Mo Kio"
+"11-20 floor",201901,2019-01-03,Non-Freehold,12,"BAYSHORE PARK",950,1121,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-03,Non-Freehold,3,"HEDGES PARK CONDOMINIUM",500,1133,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-03,Non-Freehold,15,"RIVERFRONT RESIDENCES",600,1408,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-03,Non-Freehold,18,RIVERBAY,800,1349,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+"31 - 50 floor",201901,2019-01-03,Freehold,30,"MIRAGE TOWER",1500,1791,Resale,"Executive Condominium",Completed,9,"Central Region","Singapore River"
+"1-10 floor",201901,2019-01-03,Non-Freehold,7,D'NEST,1450,1090,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-03,Freehold,17,"8 SAINT THOMAS",550,3240,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-03,Non-Freehold,8,CARABELLE,1300,1356,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-03,Freehold,3,"3 CUSCADEN",750,3359,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-03,Freehold,6,"THE TESSARINA",2250,1174,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-03,Non-Freehold,13,TREVISTA,1300,1327,Resale,"Executive Condominium",Completed,12,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-03,Non-Freehold,1,"PARC ROSEWOOD",500,1028,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"11-20 floor",201901,2019-01-03,Non-Freehold,10,"H2O RESIDENCES",1200,1104,Resale,"Executive Condominium",Completed,28,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-03,Non-Freehold,3,"ESPARINA RESIDENCES",850,1050,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-03,Non-Freehold,8,WATERVIEW,800,1056,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-03,Non-Freehold,12,"COSTA DEL SOL",1550,1281,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-03,Non-Freehold,9,"PARK COLONIAL",1250,1752,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-03,Non-Freehold,15,"WHISTLER GRAND",1050,1375,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"21 - 30 floor",201901,2019-01-03,Non-Freehold,29,"COMMONWEALTH TOWERS",700,1916,"Sub Sale","Executive Condominium",Completed,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-03,Non-Freehold,4,"LOYANG VALLEY",1850,683,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+NULL,201901,2019-01-03,Non-Freehold,NULL,"TANAH MERAH GREEN",2250,982,Resale,"Terrace House",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-03,Non-Freehold,2,"KENT RIDGE HILL RESIDENCES",650,1699,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-03,Non-Freehold,12,"KOVAN RESIDENCES",1300,1245,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-03,Freehold,1,"HAIG TEN",1100,1036,Resale,"Non-landed Properties",Completed,15,"Central Region",Geylang
+"1-10 floor",201901,2019-01-03,Non-Freehold,5,"THE POIZ RESIDENCES",1500,1268,"New Sale","Non-landed Properties",Completed,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-03,Non-Freehold,14,"EAST MEADOWS",1350,950,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-03,Freehold,NULL,N.A.,2050,1098,Resale,"Terrace House",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-03,Non-Freehold,14,"RIO VISTA",1250,865,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+NULL,201901,2019-01-03,Freehold,NULL,"MIMOSA TERRACE",1650,1553,Resale,"Terrace House",Completed,28,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-03,Non-Freehold,11,"THE CREST",1300,2077,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+NULL,201901,2019-01-03,Freehold,NULL,"SHELFORD VILLAS",2150,2214,Resale,"Semi-Detached House",Completed,11,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-03,Freehold,5,"JADE GARDEN",3100,1403,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+NULL,201901,2019-01-03,Freehold,NULL,"THE SPRINGSIDE",1950,1557,Resale,"Terrace House",Completed,26,"North Region",Yishun
+"11-20 floor",201901,2019-01-03,Non-Freehold,13,"THE INTERLACE",1850,1273,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"11-20 floor",201901,2019-01-04,Non-Freehold,13,"THE PALETTE",750,1062,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+NULL,201901,2019-01-04,Non-Freehold,NULL,"THE GREENWOOD",3000,946,Resale,"Terrace House",Completed,11,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-04,Non-Freehold,4,"CARIBBEAN AT KEPPEL BAY",1200,1626,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-04,Non-Freehold,4,"STRATFORD COURT",2100,784,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-04,Freehold,NULL,"ROYALE MANSIONS",1200,1042,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"11-20 floor",201901,2019-01-04,Non-Freehold,13,"AFFINITY AT SERANGOON",700,1354,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-04,Non-Freehold,15,"THE GARDENS AT BISHAN",900,1099,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-04,Non-Freehold,9,"EIGHT RIVERSUITES",800,1410,Resale,"Executive Condominium",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-04,Non-Freehold,1,SPRINGHILL,3000,458,Resale,"Terrace House",Completed,27,"North Region",Sembawang
+"1-10 floor",201901,2019-01-04,Freehold,8,"EMILY RESIDENCE",950,1193,Resale,"Non-landed Properties",Completed,9,"Central Region",Rochor
+NULL,201901,2019-01-04,Freehold,NULL,N.A.,3500,847,Resale,"Semi-Detached House",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-04,Non-Freehold,12,"RIVER ISLES",1200,1002,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-04,Non-Freehold,3,"VILLA MARINA",1250,1032,Resale,"Executive Condominium",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-04,Non-Freehold,1,"SELETAR PARK RESIDENCE",650,1119,Resale,"Executive Condominium",Completed,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-04,Non-Freehold,5,"THE CREST",1900,1989,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-04,Non-Freehold,1,ARCHIPELAGO,1550,1052,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"21 - 30 floor",201901,2019-01-04,Freehold,20,"8 SAINT THOMAS",550,3297,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-04,Non-Freehold,7,GARDENVISTA,850,1352,Resale,"Executive Condominium",Completed,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-04,Freehold,9,"8 RODYK",1250,1956,Resale,"Non-landed Properties",Completed,9,"Central Region","Singapore River"
+"11-20 floor",201901,2019-01-04,Non-Freehold,12,"RIVERFRONT RESIDENCES",450,1344,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-04,Freehold,3,SUITES@CHANGI,400,1430,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-04,Non-Freehold,9,"PARC ESTA",850,1626,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-04,Non-Freehold,8,"ESPARINA RESIDENCES",850,1110,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+NULL,201901,2019-01-04,Non-Freehold,NULL,"THE VILLAS @ SENTOSA COVE",2350,2100,Resale,"Terrace House",Completed,4,"Central Region","Southern Islands"
+"11-20 floor",201901,2019-01-04,Freehold,16,CRADELS,450,1604,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+"11-20 floor",201901,2019-01-04,Non-Freehold,10,"V ON SHENTON",450,2386,"Sub Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"1-10 floor",201901,2019-01-04,Non-Freehold,8,"THE MINTON",1000,1040,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-04,Non-Freehold,5,"RIVERFRONT RESIDENCES",600,1317,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-04,Non-Freehold,16,PRIVE,1050,1010,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-04,Freehold,6,"DAHLIA PARK CONDOMINIUM",1300,836,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-04,Non-Freehold,11,"Q BAY RESIDENCES",1100,1139,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-04,Non-Freehold,5,"AFFINITY AT SERANGOON",750,1503,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-05,Non-Freehold,16,"STIRLING RESIDENCES",650,1760,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-05,Non-Freehold,5,"STIRLING RESIDENCES",700,1703,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-05,Non-Freehold,13,"LE QUEST",1000,1456,"New Sale","Non-landed Properties",Uncompleted,23,"West Region","Bukit Batok"
+"21 - 30 floor",201901,2019-01-05,Non-Freehold,21,"CITY GATE",900,1967,"New Sale","Non-landed Properties",Completed,7,"Central Region",Kallang
+"11-20 floor",201901,2019-01-05,Non-Freehold,14,"PARC ESTA",500,1800,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-05,Non-Freehold,4,"MAYFAIR GARDENS",550,2005,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"21 - 30 floor",201901,2019-01-05,Non-Freehold,20,"WHISTLER GRAND",750,1440,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-05,Non-Freehold,10,"WHISTLER GRAND",950,1339,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-06,Non-Freehold,5,"PARC ESTA",750,1687,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-06,Non-Freehold,16,"PARC ESTA",400,1887,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-06,Non-Freehold,6,"WHISTLER GRAND",600,1309,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-06,Non-Freehold,10,"PARK COLONIAL",1000,1685,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-06,Non-Freehold,11,"PARC ESTA",600,1773,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-06,Non-Freehold,7,"RIVERFRONT RESIDENCES",450,1311,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-06,Non-Freehold,15,"PARC ESTA",500,1806,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-06,Non-Freehold,2,"MAYFAIR GARDENS",550,1974,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-06,Non-Freehold,6,"PARK COLONIAL",1050,1871,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-06,Non-Freehold,2,"PARC ESTA",700,1671,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-06,Non-Freehold,12,JADESCAPE,750,1725,"New Sale","Executive Condominium",Uncompleted,20,"Central Region",Bishan
+"11-20 floor",201901,2019-01-06,Non-Freehold,10,"PARC ESTA",650,1655,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-06,Non-Freehold,18,"THE TRE VER",750,1682,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"21 - 30 floor",201901,2019-01-06,Non-Freehold,28,"WHISTLER GRAND",600,1502,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-06,Non-Freehold,8,"PARC ESTA",750,1709,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-06,Non-Freehold,9,"AFFINITY AT SERANGOON",450,1484,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-06,Non-Freehold,4,"MAYFAIR GARDENS",1150,1805,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-06,Non-Freehold,10,"PARC ESTA",650,1721,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-06,Freehold,4,"CASA AL MARE",800,1640,"New Sale","Non-landed Properties",Uncompleted,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-06,Non-Freehold,12,"PARC ESTA",600,1780,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-06,Non-Freehold,15,"PARC ESTA",600,1800,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-06,Non-Freehold,19,"MARGARET VILLE",850,1786,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-07,Freehold,7,"368 THOMSON",1700,1503,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-07,Freehold,3,"CHANGI GREEN",1450,1069,Resale,"Executive Condominium",Completed,16,"East Region",Tampines
+"1-10 floor",201901,2019-01-07,Non-Freehold,6,"PARC ESTA",1400,1601,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-07,Freehold,13,"HAIG COURT",1400,1358,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+NULL,201901,2019-01-07,Non-Freehold,NULL,EUHABITAT,3400,828,Resale,"Terrace House",Completed,14,"East Region",Bedok
+"1-10 floor",201901,2019-01-07,Freehold,7,"THE HILLSIDE",1300,1247,Resale,"Executive Condominium",Completed,21,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-07,Non-Freehold,10,"HILLION RESIDENCES",450,1642,Resale,"Non-landed Properties",Completed,23,"West Region","Bukit Panjang"
+"11-20 floor",201901,2019-01-07,Freehold,16,"REGENCY PARK",3650,1781,Resale,"Executive Condominium",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-07,Non-Freehold,1,D'NEST,550,1179,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-07,Non-Freehold,14,"NIN RESIDENCE",1250,1293,Resale,"Non-landed Properties",Completed,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-07,Non-Freehold,4,"KENT RIDGE HILL RESIDENCES",500,1740,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-07,Non-Freehold,7,SUNGLADE,1250,1171,Resale,"Executive Condominium",Completed,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-07,Non-Freehold,14,"BOATHOUSE RESIDENCES",900,1083,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-07,Non-Freehold,17,PRIVE,800,990,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-07,Non-Freehold,7,"HERITAGE VIEW",1200,1176,Resale,"Executive Condominium",Completed,5,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-07,Freehold,4,"THE BROOKS I",1400,1256,Resale,"Non-landed Properties",Completed,26,"North Region",Yishun
+NULL,201901,2019-01-07,Non-Freehold,NULL,"VILLA VERDE",1600,941,Resale,"Terrace House",Completed,23,"West Region","Choa Chu Kang"
+"1-10 floor",201901,2019-01-07,Freehold,8,"KIM KEAT LODGE",1250,1008,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+"1-10 floor",201901,2019-01-07,Non-Freehold,8,"BOATHOUSE RESIDENCES",600,1060,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-07,Non-Freehold,11,"PARC ESTA",750,1719,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-07,Freehold,18,"NEW FUTURA",1850,3689,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-07,Freehold,2,"STELLAR RV",600,1565,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-07,Non-Freehold,10,RIVERBAY,950,1307,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-07,Freehold,9,SUNHAVEN,1900,686,Resale,"Executive Condominium",Completed,16,"East Region",Tampines
+"1-10 floor",201901,2019-01-07,Non-Freehold,6,"THE LINEAR",1250,978,Resale,"Non-landed Properties",Completed,23,"West Region","Bukit Panjang"
+"11-20 floor",201901,2019-01-07,Freehold,11,"HAIG COURT",1400,1344,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"11-20 floor",201901,2019-01-07,Non-Freehold,10,8@WOODLEIGH,1100,1394,Resale,"Executive Condominium",Completed,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-08,Freehold,12,"THE INFINITI",1250,1105,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-08,Non-Freehold,11,"AQUARIUS BY THE PARK",1200,912,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"31 - 50 floor",201901,2019-01-08,Non-Freehold,36,"V ON SHENTON",1500,2062,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"11-20 floor",201901,2019-01-08,Freehold,18,"SKYLINE RESIDENCES",850,2208,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-08,Non-Freehold,5,LIVIA,900,893,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-08,Freehold,4,BLISS@KOVAN,1250,1442,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-08,Freehold,7,"BUKIT REGENCY",1050,1128,Resale,"Executive Condominium",Completed,21,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-08,Non-Freehold,13,WATERTOWN,600,1327,"Sub Sale","Non-landed Properties",Completed,19,"North East Region",Punggol
+"11-20 floor",201901,2019-01-08,Non-Freehold,11,"THE GARDENS AT BISHAN",900,1110,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-08,Non-Freehold,1,"CANBERRA RESIDENCES",950,814,Resale,"Executive Condominium",Completed,27,"North Region",Sembawang
+"1-10 floor",201901,2019-01-08,Non-Freehold,7,"RIVER ISLES",950,929,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"11-20 floor",201901,2019-01-08,Non-Freehold,17,"CAMELOT BY-THE-WATER",3050,1647,Resale,"Executive Condominium",Completed,15,"Central Region",Kallang
+"11-20 floor",201901,2019-01-08,Non-Freehold,16,"WATERBANK AT DAKOTA",1300,1390,Resale,"Executive Condominium",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-08,Freehold,5,"ESPIRA SPRING",2650,718,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-08,Freehold,3,"BULLION PARK",800,1065,Resale,"Executive Condominium",Completed,26,"North East Region","Ang Mo Kio"
+NULL,201901,2019-01-08,Non-Freehold,NULL,SUNCOTTAGES,2900,951,Resale,"Terrace House",Completed,23,"West Region","Bukit Panjang"
+"1-10 floor",201901,2019-01-08,Freehold,3,"FLAMINGO VALLEY",800,1357,Resale,"Executive Condominium",Completed,15,"East Region",Bedok
+NULL,201901,2019-01-08,Freehold,NULL,N.A.,2950,1010,Resale,"Terrace House",Completed,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-08,Non-Freehold,4,"RIVER PLACE",1600,1473,Resale,"Executive Condominium",Completed,3,"Central Region","Singapore River"
+"11-20 floor",201901,2019-01-08,Freehold,19,"AMBER RESIDENCES",1250,1802,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"21 - 30 floor",201901,2019-01-08,Non-Freehold,22,"MARGARET VILLE",900,1787,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-08,Non-Freehold,3,"JEWEL @ BUANGKOK",500,1356,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-09,Non-Freehold,11,"AFFINITY AT SERANGOON",450,1497,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+NULL,201901,2019-01-09,Freehold,NULL,WATERCOVE,3650,691,"New Sale","Semi-Detached House",Uncompleted,27,"North Region",Sembawang
+"11-20 floor",201901,2019-01-09,Freehold,17,MONTVIEW,1250,1622,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-09,Non-Freehold,13,"RIVERFRONT RESIDENCES",700,1348,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-09,Non-Freehold,10,"THE QUINTET",1250,732,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+"1-10 floor",201901,2019-01-09,Freehold,8,"SIGNATURE PARK",1400,1286,Resale,"Executive Condominium",Completed,21,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-09,Freehold,13,"CAIRNHILL RESIDENCES",1150,2318,Resale,"Non-landed Properties",Completed,9,"Central Region",Newton
+"1-10 floor",201901,2019-01-09,Non-Freehold,4,"STIRLING RESIDENCES",700,1697,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-09,Non-Freehold,13,KERRISDALE,1000,1121,Resale,"Executive Condominium",Completed,8,"Central Region",Kallang
+"1-10 floor",201901,2019-01-09,Non-Freehold,8,"BARTLEY RESIDENCES",800,1456,Resale,"Non-landed Properties",Completed,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-09,Non-Freehold,15,"RIVERFRONT RESIDENCES",450,1376,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-09,Freehold,2,"COUNTRY PARK CONDOMINIUM",1400,1288,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-09,Non-Freehold,3,"RIVER PLACE",700,1414,Resale,"Executive Condominium",Completed,3,"Central Region","Singapore River"
+"1-10 floor",201901,2019-01-09,Freehold,5,"SKYLINE RESIDENCES",1600,1784,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"11-20 floor",201901,2019-01-09,Non-Freehold,15,"LE QUEST",1000,1464,"New Sale","Non-landed Properties",Uncompleted,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-09,Freehold,1,"LANDBAY CONDOMINIUM",1150,1233,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-09,Non-Freehold,11,"RIVERSOUND RESIDENCE",1350,988,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-09,Non-Freehold,10,HILLSTA,550,1153,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-09,Non-Freehold,3,"AFFINITY AT SERANGOON",450,1446,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"31 - 50 floor",201901,2019-01-09,Non-Freehold,37,SOUTHBANK,950,1654,Resale,"Non-landed Properties",Completed,7,"Central Region",Kallang
+NULL,201901,2019-01-10,Freehold,NULL,N.A.,6100,1603,Resale,"Detached House",Completed,10,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-10,Freehold,14,"SKY GREEN",450,1626,Resale,"Executive Condominium",Completed,13,"Central Region",Geylang
+"11-20 floor",201901,2019-01-10,Freehold,17,TRILIGHT,2350,1852,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-10,Non-Freehold,8,"COCO PALMS",750,1208,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-10,Non-Freehold,1,REGENTVILLE,1150,710,Resale,"Non-landed Properties",Completed,19,"North East Region",Hougang
+NULL,201901,2019-01-10,Freehold,NULL,"FRANKEL ESTATE",8300,1177,Resale,"Detached House",Completed,15,"East Region",Bedok
+"11-20 floor",201901,2019-01-10,Non-Freehold,10,"CITY GATE",900,1967,"Sub Sale","Non-landed Properties",Completed,7,"Central Region",Kallang
+"1-10 floor",201901,2019-01-10,Non-Freehold,6,"THE CENTREPOINT",1100,2599,Resale,"Non-landed Properties",Completed,9,"Central Region",Orchard
+"1-10 floor",201901,2019-01-10,Non-Freehold,6,"YISHUN EMERALD",1000,753,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"1-10 floor",201901,2019-01-10,Non-Freehold,8,"THE LANAI",950,1357,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-10,Freehold,17,"SAM KIANG MANSIONS",1200,1700,Resale,"Non-landed Properties",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-10,Non-Freehold,8,"CARIBBEAN AT KEPPEL BAY",1250,1547,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-10,Freehold,5,IVORY,2000,858,Resale,"Non-landed Properties",Completed,15,"Central Region",Geylang
+"1-10 floor",201901,2019-01-10,Freehold,6,"CENTRA SUITES",450,1378,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-10,Non-Freehold,2,"REFLECTIONS AT KEPPEL BAY",1300,1576,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-10,Freehold,2,"PEIRCE VIEW",1200,691,Resale,"Executive Condominium",Completed,20,"North East Region","Ang Mo Kio"
+"1-10 floor",201901,2019-01-10,Non-Freehold,9,"COMPASS HEIGHTS",1050,921,Resale,"Non-landed Properties",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-10,Freehold,3,"EAST COAST RESIDENCES",1050,1237,Resale,"Non-landed Properties",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-10,Non-Freehold,13,"LE QUEST",500,1468,"New Sale","Non-landed Properties",Uncompleted,23,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-10,Freehold,11,"SCOTTS SQUARE",950,3062,Resale,"Non-landed Properties",Completed,9,"Central Region",Orchard
+"1-10 floor",201901,2019-01-10,Non-Freehold,9,SEAHILL,600,1378,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-10,Non-Freehold,8,"SPOTTISWOODE PARK",1250,803,Resale,"Non-landed Properties",Completed,2,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-10,Non-Freehold,7,"THE WOODLEIGH RESIDENCES",550,1981,"New Sale","Non-landed Properties",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-10,Freehold,1,"SUNNYVALE RESIDENCES",1350,1235,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"11-20 floor",201901,2019-01-10,Non-Freehold,13,"STIRLING RESIDENCES",650,1742,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+NULL,201901,2019-01-10,Freehold,NULL,"BELGRAVIA GREEN",3450,863,"New Sale","Terrace House",Uncompleted,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-10,Non-Freehold,3,D'NEST,800,1045,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-10,Freehold,6,"STELLAR RV",450,1880,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-10,Non-Freehold,13,"THE ESTUARY",1300,1015,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"1-10 floor",201901,2019-01-10,Freehold,5,"EDELWEISS PARK CONDOMINIUM",1650,940,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"21 - 30 floor",201901,2019-01-10,Non-Freehold,22,"PARC BOTANNIA",950,1181,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+NULL,201901,2019-01-10,Freehold,NULL,"FLORIDA PARK",3350,905,Resale,"Semi-Detached House",Completed,28,"North East Region","Ang Mo Kio"
+"11-20 floor",201901,2019-01-10,Non-Freehold,12,"THE BEACON",1150,1394,Resale,"Non-landed Properties",Completed,2,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-10,Non-Freehold,2,"BOATHOUSE RESIDENCES",900,984,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-10,Non-Freehold,6,"KINGSFORD . HILLVIEW PEAK",800,1425,"Sub Sale","Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-11,Freehold,17,"CASSIA VIEW",1150,1224,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-11,Freehold,17,"ARDMORE PARK",2900,3356,Resale,"Executive Condominium",Completed,10,"Central Region",Newton
+"31 - 50 floor",201901,2019-01-11,Non-Freehold,31,MERAPRIME,850,1660,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+NULL,201901,2019-01-11,Freehold,NULL,N.A.,3550,1218,Resale,"Semi-Detached House",Completed,20,"Central Region",Bishan
+"11-20 floor",201901,2019-01-11,Non-Freehold,15,"STIRLING RESIDENCES",700,1761,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-11,Freehold,6,"LEEDON RESIDENCE",2100,2346,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-11,Non-Freehold,11,"URBAN VISTA",550,1485,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-11,Freehold,9,"THE ANCHORAGE",1150,1574,Resale,"Executive Condominium",Completed,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-11,Non-Freehold,3,"KENT RIDGE HILL RESIDENCES",650,1702,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"31 - 50 floor",201901,2019-01-11,Non-Freehold,34,"STIRLING RESIDENCES",750,1836,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-11,Non-Freehold,18,"ESPARINA RESIDENCES",950,1041,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-11,Non-Freehold,13,"HIGH PARK RESIDENCES",1250,1157,"Sub Sale","Non-landed Properties",Completed,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-11,Non-Freehold,17,MERAPRIME,1300,1515,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-11,Freehold,4,N.A.,1200,879,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+NULL,201901,2019-01-11,Freehold,NULL,N.A.,1850,1552,Resale,"Terrace House",Completed,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-11,Non-Freehold,16,"THE SCALA",900,1530,Resale,"Non-landed Properties",Completed,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-11,Non-Freehold,10,"THE LANAI",950,1367,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-11,Freehold,19,MONTEBLEU,1150,1621,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"21 - 30 floor",201901,2019-01-11,Non-Freehold,21,"PARC BOTANNIA",500,1403,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-11,Non-Freehold,10,"THE TRE VER",700,1582,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-11,Non-Freehold,17,"RIVERFRONT RESIDENCES",850,1195,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-11,Non-Freehold,6,"WATERFRONT GOLD",1300,1150,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-11,Non-Freehold,11,"THE QUARTZ",1200,1049,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"21 - 30 floor",201901,2019-01-11,Non-Freehold,20,"HIGH PARK RESIDENCES",400,1290,"Sub Sale","Non-landed Properties",Uncompleted,28,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-12,Non-Freehold,2,"MAYFAIR GARDENS",700,2016,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-12,Non-Freehold,4,"KENT RIDGE HILL RESIDENCES",1050,1805,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-12,Non-Freehold,15,"THE TRE VER",500,1621,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"21 - 30 floor",201901,2019-01-12,Non-Freehold,29,"STIRLING RESIDENCES",450,2037,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"31 - 50 floor",201901,2019-01-12,Non-Freehold,31,"STIRLING RESIDENCES",700,1883,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-12,Non-Freehold,12,"PARK COLONIAL",450,1873,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"21 - 30 floor",201901,2019-01-12,Non-Freehold,27,"STIRLING RESIDENCES",1050,1781,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"21 - 30 floor",201901,2019-01-12,Non-Freehold,25,"SEASIDE RESIDENCES",1700,2127,"New Sale","Non-landed Properties",Uncompleted,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-12,Non-Freehold,1,"KENT RIDGE HILL RESIDENCES",850,1590,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-12,Non-Freehold,14,"LE QUEST",700,1496,"New Sale","Non-landed Properties",Uncompleted,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-12,Non-Freehold,5,"RIVERFRONT RESIDENCES",1500,1278,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-12,Non-Freehold,8,"PARC ESTA",400,1822,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-12,Non-Freehold,8,"THE JOVELL",450,1346,"New Sale","Executive Condominium",Uncompleted,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-12,Non-Freehold,12,"STIRLING RESIDENCES",750,1763,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"21 - 30 floor",201901,2019-01-12,Non-Freehold,24,"STIRLING RESIDENCES",900,1876,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-12,Non-Freehold,8,"STIRLING RESIDENCES",600,1748,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-12,Non-Freehold,2,"KANDIS RESIDENCE",900,1275,"New Sale","Executive Condominium",Uncompleted,27,"North Region",Sembawang
+"21 - 30 floor",201901,2019-01-12,Non-Freehold,26,"SEASIDE RESIDENCES",1700,2144,"New Sale","Non-landed Properties",Uncompleted,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-12,Freehold,3,"HARBOUR VIEW GARDENS",1000,1651,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-13,Non-Freehold,15,"THE TAPESTRY",1150,1124,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-13,Non-Freehold,14,"THE TRE VER",600,1603,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-13,Non-Freehold,9,"THE TAPESTRY",600,1415,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-13,Non-Freehold,15,"STIRLING RESIDENCES",1050,1607,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-13,Non-Freehold,2,"MAYFAIR GARDENS",1100,1811,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-13,Non-Freehold,5,"MAYFAIR GARDENS",1000,1679,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-13,Non-Freehold,3,"MAYFAIR GARDENS",1050,1856,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-13,Non-Freehold,2,"THE TAPESTRY",450,1488,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-13,Non-Freehold,1,"THE TAPESTRY",950,1328,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-14,Non-Freehold,3,"KENT RIDGE HILL RESIDENCES",450,1657,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+NULL,201901,2019-01-14,Non-Freehold,NULL,N.A.,2100,969,Resale,"Terrace House",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-14,Non-Freehold,8,"EIGHT COURTYARDS",1000,875,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"11-20 floor",201901,2019-01-14,Non-Freehold,12,"DOUBLE BAY RESIDENCES",1000,1089,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-14,Non-Freehold,2,"PARC ESTA",450,1759,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-14,Freehold,9,"GOLDENHILL PARK CONDOMINIUM",1350,1564,Resale,"Executive Condominium",Completed,20,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-14,Non-Freehold,3,"CLEMENTIWOODS CONDOMINIUM",1100,1189,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-14,Non-Freehold,2,"ESPARINA RESIDENCES",1050,1066,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-14,Freehold,5,MURANO,1550,968,Resale,"Non-landed Properties",Completed,5,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-14,Freehold,2,"THE ARISTO @ AMBER",650,1801,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-14,Freehold,8,"3 CUSCADEN",750,3424,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-14,Non-Freehold,10,"THE TAPESTRY",1000,1296,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-14,Freehold,15,"FABER GARDEN CONDOMINIUM",1550,1400,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-14,Non-Freehold,3,"THE MILTONIA RESIDENCES",1000,929,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"11-20 floor",201901,2019-01-14,Non-Freehold,18,JADESCAPE,1050,1672,"New Sale","Executive Condominium",Uncompleted,20,"Central Region",Bishan
+"11-20 floor",201901,2019-01-14,Non-Freehold,12,"THE TRE VER",650,1612,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-14,Non-Freehold,17,JADESCAPE,750,1822,"New Sale","Executive Condominium",Uncompleted,20,"Central Region",Bishan
+"11-20 floor",201901,2019-01-14,Non-Freehold,14,"GUILIN VIEW",850,869,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-14,Non-Freehold,1,"SIMS URBAN OASIS",450,1647,Resale,"Executive Condominium",Completed,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-14,Non-Freehold,19,"MARINA ONE RESIDENCES",1150,2701,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"1-10 floor",201901,2019-01-14,Freehold,6,"PARADISE PALMS",1200,1309,Resale,"Non-landed Properties",Completed,15,"Central Region",Geylang
+"11-20 floor",201901,2019-01-14,Non-Freehold,10,JADESCAPE,900,1708,"New Sale","Executive Condominium",Uncompleted,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-14,Freehold,5,"THE PETALS",1300,1052,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+NULL,201901,2019-01-14,Freehold,NULL,"FRANKEL ESTATE",1750,1217,Resale,"Terrace House",Completed,15,"East Region",Bedok
+NULL,201901,2019-01-14,Freehold,NULL,N.A.,1600,1063,Resale,"Terrace House",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-14,Non-Freehold,10,"THE SCALA",900,1453,Resale,"Non-landed Properties",Completed,19,"North East Region",Serangoon
+"21 - 30 floor",201901,2019-01-14,Non-Freehold,23,"SEASIDE RESIDENCES",1700,2114,"New Sale","Non-landed Properties",Uncompleted,15,"East Region",Bedok
+"11-20 floor",201901,2019-01-14,Non-Freehold,18,"MARINA ONE RESIDENCES",1150,2688,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"31 - 50 floor",201901,2019-01-14,Non-Freehold,35,"STIRLING RESIDENCES",1350,1854,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-14,Non-Freehold,11,CASPIAN,1400,1129,Resale,"Executive Condominium",Completed,22,"West Region","Jurong West"
+"1-10 floor",201901,2019-01-14,Non-Freehold,7,"THE AMSTON",1800,990,Resale,"Non-landed Properties",Completed,23,"West Region","Bukit Batok"
+"21 - 30 floor",201901,2019-01-14,Non-Freehold,20,"PARC BOTANNIA",500,1389,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+NULL,201901,2019-01-14,Freehold,NULL,"RIVER VALLEY APARTMENTS",950,1357,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-14,Non-Freehold,4,"KANDIS RESIDENCE",750,1207,"New Sale","Executive Condominium",Uncompleted,27,"North Region",Sembawang
+"1-10 floor",201901,2019-01-14,Non-Freehold,3,"THE TAPESTRY",1450,1210,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-14,Non-Freehold,13,VETRO,450,1193,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-14,Freehold,3,"GLENDALE PARK",1500,1095,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"21 - 30 floor",201901,2019-01-14,Non-Freehold,29,"STIRLING RESIDENCES",700,1862,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-14,Non-Freehold,5,"ROBERTSON EDGE",450,1964,Resale,"Non-landed Properties",Completed,9,"Central Region","River Valley"
+NULL,201901,2019-01-15,Freehold,NULL,"LENTOR VIEW",2050,1180,Resale,"Terrace House",Completed,26,"North East Region","Ang Mo Kio"
+"1-10 floor",201901,2019-01-15,Non-Freehold,3,"SENNETT RESIDENCE",900,1321,Resale,"Executive Condominium",Completed,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-15,Non-Freehold,11,"BLUE HORIZON",1150,1042,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-15,Freehold,4,"THE SUMMIT",850,1251,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-15,Non-Freehold,16,"CENTRAL GROVE",1250,1043,Resale,"Executive Condominium",Completed,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-15,Freehold,12,"VACANZA @ EAST",1600,1104,Resale,"Executive Condominium",Completed,14,"East Region",Bedok
+"11-20 floor",201901,2019-01-15,Freehold,18,TRESALVEO,1000,1618,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-15,Non-Freehold,5,"THE CREST",1850,2009,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+NULL,201901,2019-01-15,Freehold,NULL,N.A.,3650,1170,Resale,"Semi-Detached House",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-15,Freehold,4,"THE PIER AT ROBERTSON",1100,2120,Resale,"Non-landed Properties",Completed,9,"Central Region","Singapore River"
+"1-10 floor",201901,2019-01-15,Non-Freehold,3,"PARC ESTA",450,1765,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-15,Non-Freehold,8,"BLUE HORIZON",1150,1118,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-15,Non-Freehold,6,"REGENT GROVE",950,772,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+"1-10 floor",201901,2019-01-15,Non-Freehold,6,WATERTOWN,550,1320,"Sub Sale","Non-landed Properties",Completed,19,"North East Region",Punggol
+NULL,201901,2019-01-15,Non-Freehold,NULL,"KEW VALE",1700,1012,Resale,"Terrace House",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-15,Freehold,NULL,N.A.,3100,1095,Resale,"Terrace House",Completed,15,"East Region",Bedok
+"11-20 floor",201901,2019-01-15,Non-Freehold,19,"THE TRE VER",500,1670,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-15,Freehold,4,"DUNEARN SUITES",400,1853,Resale,"Non-landed Properties",Completed,11,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-15,Non-Freehold,1,"THE JOVELL",550,1399,"New Sale","Executive Condominium",Uncompleted,17,"East Region","Pasir Ris"
+NULL,201901,2019-01-15,Freehold,NULL,"WATTEN RESIDENCES",4000,949,Resale,"Semi-Detached House",Completed,11,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-15,Non-Freehold,17,"WHISTLER GRAND",1300,1323,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-15,Freehold,11,"THE HORIZON",3200,1589,Resale,"Executive Condominium",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-15,Non-Freehold,3,"WOODGROVE CONDOMINIUM",1650,664,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"11-20 floor",201901,2019-01-15,Non-Freehold,11,"RIVERFRONT RESIDENCES",600,1359,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-15,Non-Freehold,1,"THE JOVELL",450,1354,"New Sale","Executive Condominium",Uncompleted,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-15,Non-Freehold,7,"THE TRE VER",500,1569,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+NULL,201901,2019-01-15,Freehold,NULL,N.A.,2050,1296,Resale,"Terrace House",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-15,Non-Freehold,1,"AFFINITY AT SERANGOON",650,1403,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-15,Freehold,9,"THE PEAK @ CAIRNHILL II",900,2578,Resale,"Non-landed Properties",Completed,9,"Central Region",Newton
+"11-20 floor",201901,2019-01-15,Freehold,10,"MARINE BLUE",1250,1407,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+NULL,201901,2019-01-15,Non-Freehold,NULL,"WEST COAST GARDENS",2000,1497,Resale,"Terrace House",Completed,5,"West Region",Clementi
+NULL,201901,2019-01-15,Non-Freehold,NULL,"SELETAR HILLS ESTATE",3450,1145,Resale,"Semi-Detached House",Completed,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-15,Non-Freehold,5,"STIRLING RESIDENCES",750,1726,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-15,Freehold,9,BELLERIVE,1250,1647,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-15,Non-Freehold,3,"RIVERFRONT RESIDENCES",700,1267,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-15,Non-Freehold,19,"PARC BOTANNIA",500,1384,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+NULL,201901,2019-01-15,Freehold,NULL,N.A.,1350,841,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-15,Freehold,6,"THE PEAK @ CAIRNHILL II",850,2658,Resale,"Non-landed Properties",Completed,9,"Central Region",Newton
+"11-20 floor",201901,2019-01-15,Freehold,10,"REGENT RESIDENCES",800,1338,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+"31 - 50 floor",201901,2019-01-16,Non-Freehold,42,"DUO RESIDENCES",1550,2609,"New Sale","Non-landed Properties",Completed,7,"Central Region","Downtown Core"
+"1-10 floor",201901,2019-01-16,Non-Freehold,3,"CARIBBEAN AT KEPPEL BAY",1350,1555,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-16,Non-Freehold,1,"DAINTREE RESIDENCE",600,1748,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-16,Non-Freehold,7,"MELVILLE PARK",950,767,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-16,Non-Freehold,11,JADESCAPE,900,1715,"New Sale","Executive Condominium",Uncompleted,20,"Central Region",Bishan
+"1-10 floor",201901,2019-01-16,Freehold,6,"GUILLEMARD EDGE",450,1541,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"21 - 30 floor",201901,2019-01-16,Freehold,21,"REGENT RESIDENCES",800,1514,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-16,Non-Freehold,4,"MAYFAIR GARDENS",500,2064,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-16,Non-Freehold,11,"THE CLEARWATER",1000,970,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-16,Non-Freehold,NULL,"NIM COLLECTION",1700,1738,"New Sale","Terrace House",Uncompleted,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-16,Non-Freehold,9,"RIVERFRONT RESIDENCES",450,1324,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-16,Non-Freehold,2,"HERITAGE VIEW",1200,1120,Resale,"Executive Condominium",Completed,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-16,Non-Freehold,15,"THE BENCOOLEN",950,1340,Resale,"Non-landed Properties",Completed,7,"Central Region",Rochor
+"21 - 30 floor",201901,2019-01-16,Non-Freehold,26,"THE PLAZA",700,1118,Resale,"Non-landed Properties",Completed,7,"Central Region",Kallang
+"1-10 floor",201901,2019-01-16,Non-Freehold,1,"NAUNG RESIDENCE",600,1388,Resale,"Non-landed Properties",Completed,19,"North East Region",Hougang
+NULL,201901,2019-01-16,Freehold,NULL,"PAVILION PARK",1600,1641,Resale,"Terrace House",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-16,Freehold,3,"THE CHAMPAGNE",1100,1072,Resale,"Non-landed Properties",Completed,14,"East Region",Bedok
+"1-10 floor",201901,2019-01-16,Non-Freehold,8,"PARC OLYMPIA",650,1051,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-16,Non-Freehold,3,"KOVAN MELODY",1300,1115,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-16,Non-Freehold,1,"REGENT PARK",1250,961,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"21 - 30 floor",201901,2019-01-16,Non-Freehold,20,"TREE HOUSE",950,1108,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Panjang"
+"21 - 30 floor",201901,2019-01-16,Non-Freehold,25,"WHISTLER GRAND",750,1461,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-16,Freehold,1,"THE FORESTA @ MOUNT FABER",450,1928,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"11-20 floor",201901,2019-01-16,Non-Freehold,19,"MARINA ONE RESIDENCES",1150,2571,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"11-20 floor",201901,2019-01-16,Non-Freehold,11,"SEA ESTA",1100,956,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-16,Non-Freehold,4,"FABER CREST",1750,946,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-16,Non-Freehold,10,"WHISTLER GRAND",750,1394,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-16,Non-Freehold,4,"THE CREST",1700,2184,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-16,Non-Freehold,2,"PARC VERA",800,1009,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-16,Freehold,1,"THE PROMINENCE",1350,863,Resale,"Non-landed Properties",Completed,15,"Central Region",Geylang
+"1-10 floor",201901,2019-01-16,Freehold,9,"THE IVERIA",950,2589,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-17,Freehold,10,"CAVENAGH HOUSE",1650,1601,Resale,"Non-landed Properties",Completed,9,"Central Region",Newton
+"1-10 floor",201901,2019-01-17,Non-Freehold,1,"COTE D'AZUR",1400,1147,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"11-20 floor",201901,2019-01-17,Freehold,12,"3 CUSCADEN",450,3594,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","River Valley"
+NULL,201901,2019-01-17,Freehold,NULL,"BELGRAVIA GREEN",3450,886,"New Sale","Terrace House",Uncompleted,28,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-17,Non-Freehold,16,"THE FLORIDA",2000,683,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-17,Non-Freehold,4,"AFFINITY AT SERANGOON",450,1453,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-17,Non-Freehold,11,"AFFINITY AT SERANGOON",600,1488,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"21 - 30 floor",201901,2019-01-17,Freehold,20,"THE VIRIDIAN",900,1235,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+NULL,201901,2019-01-17,Freehold,NULL,WATERCOVE,3350,875,"New Sale","Terrace House",Uncompleted,27,"North Region",Sembawang
+"11-20 floor",201901,2019-01-17,Freehold,10,"CUBE 8",900,1623,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-17,Non-Freehold,8,"FOURTH AVENUE RESIDENCES",500,2467,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-17,Freehold,8,"THE HILLSIDE",1500,1094,Resale,"Executive Condominium",Completed,21,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-17,Non-Freehold,3,"MAYFAIR GARDENS",550,1996,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-17,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",1500,2415,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-17,Freehold,3,"10 EVELYN",550,2908,"New Sale","Non-landed Properties",Uncompleted,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-17,Non-Freehold,7,SEASTRAND,550,987,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-17,Non-Freehold,7,"THE MAYFAIR",1250,880,Resale,"Executive Condominium",Completed,22,"West Region","Jurong East"
+"11-20 floor",201901,2019-01-17,Non-Freehold,10,"STIRLING RESIDENCES",650,1724,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-17,Non-Freehold,1,"COTE D'AZUR",1000,1005,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-17,Freehold,4,"MAPLE WOODS",1800,1494,Resale,"Executive Condominium",Completed,21,"Central Region","Bukit Timah"
+NULL,201901,2019-01-17,Non-Freehold,NULL,"THE TENERIFFE",3200,860,Resale,"Terrace House",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-17,Freehold,1,"1 KING ALBERT PARK",1400,1302,Resale,"Executive Condominium",Completed,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-17,Non-Freehold,9,LIVIA,1350,814,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-17,Non-Freehold,1,"FOURTH AVENUE RESIDENCES",500,2296,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-17,Non-Freehold,7,"THE TAPESTRY",600,1431,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-17,Non-Freehold,19,"FLO RESIDENCE",1000,909,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+NULL,201901,2019-01-17,Freehold,NULL,N.A.,1950,1521,Resale,"Terrace House",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-17,Non-Freehold,3,"THE SCOTTS TOWER",650,2199,Resale,"Executive Condominium",Completed,9,"Central Region",Newton
+"1-10 floor",201901,2019-01-17,Freehold,2,"CITIGATE RESIDENCE",550,1227,Resale,"Non-landed Properties",Completed,8,"Central Region",Kallang
+"1-10 floor",201901,2019-01-17,Freehold,5,"8 SAINT THOMAS",400,3437,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"21 - 30 floor",201901,2019-01-17,Non-Freehold,28,"REFLECTIONS AT KEPPEL BAY",900,1567,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+NULL,201901,2019-01-17,Non-Freehold,NULL,N.A.,3350,149,Resale,"Semi-Detached House",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-17,Freehold,NULL,N.A.,4150,1342,Resale,"Semi-Detached House",Completed,11,"Central Region",Novena
+NULL,201901,2019-01-17,Non-Freehold,NULL,"HOLLAND GROVE",2150,1269,Resale,"Semi-Detached House",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-17,Non-Freehold,12,"PARC BOTANNIA",650,1385,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-18,Freehold,18,"THE SUITES AT CENTRAL",600,2691,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Non-Freehold,6,"NINE RESIDENCES",950,1053,Resale,"Non-landed Properties",Completed,27,"North Region",Yishun
+"1-10 floor",201901,2019-01-18,Freehold,3,"THE SUNNY SPRING",1100,1120,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-18,Non-Freehold,13,"WATERFRONT ISLE",900,1169,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-18,Freehold,15,"8 SAINT THOMAS",550,3277,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-18,Freehold,18,"JUI RESIDENCES",450,1819,"New Sale","Non-landed Properties",Uncompleted,12,"Central Region",Kallang
+"11-20 floor",201901,2019-01-18,Non-Freehold,16,"SEASIDE RESIDENCES",550,2097,"New Sale","Non-landed Properties",Uncompleted,15,"East Region",Bedok
+NULL,201901,2019-01-18,Freehold,NULL,"WEST PARK REGENCY",1900,908,Resale,"Terrace House",Completed,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-18,Non-Freehold,14,"PARK COLONIAL",600,1880,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-18,Freehold,3,STRATA,500,1838,Resale,"Non-landed Properties",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-18,Freehold,4,"# 1 LOFT",550,1157,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-18,Freehold,5,"D' CASITA",1450,1032,Resale,"Non-landed Properties",Completed,14,"East Region",Bedok
+"11-20 floor",201901,2019-01-18,Non-Freehold,13,"REGENT GROVE",1250,715,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+"11-20 floor",201901,2019-01-18,Freehold,15,"THE ANCHORAGE",1850,1353,Resale,"Executive Condominium",Completed,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-18,Freehold,16,"PATERSON RESIDENCE",1300,2422,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,9,"RV ALTITUDE",450,3091,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-18,Non-Freehold,12,"THE TAPESTRY",1500,1212,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+NULL,201901,2019-01-18,Freehold,NULL,"YUNNAN GARDENS",4700,706,Resale,"Terrace House",Completed,22,"West Region","Jurong West"
+"11-20 floor",201901,2019-01-18,Non-Freehold,10,"DOVER PARKVIEW",950,1127,Resale,"Executive Condominium",Completed,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-18,Freehold,15,"THE PEAK @ CAIRNHILL II",900,2629,Resale,"Non-landed Properties",Completed,9,"Central Region",Newton
+"11-20 floor",201901,2019-01-18,Non-Freehold,10,"WATERFRONT KEY",1250,1149,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-18,Non-Freehold,NULL,"HONG KONG PARK",2600,2345,Resale,"Semi-Detached House",Completed,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-18,Freehold,4,LOFT@HOLLAND,350,2472,Resale,"Non-landed Properties",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-18,Non-Freehold,9,"PARC CENTROS",1000,1181,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-18,Freehold,5,"RV ALTITUDE",600,2798,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,9,"RV ALTITUDE",550,2796,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,9,"NADIA MANSIONS",2300,1052,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+"1-10 floor",201901,2019-01-18,Non-Freehold,9,WOODSVALE,1300,649,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"11-20 floor",201901,2019-01-18,Non-Freehold,12,"ESPARINA RESIDENCES",1000,1119,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-18,Freehold,9,"MOONSTONE RESIDENCES",1050,1063,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+"11-20 floor",201901,2019-01-18,Non-Freehold,17,"THE TRE VER",700,1634,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-18,Freehold,8,"RV ALTITUDE",600,2873,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+NULL,201901,2019-01-18,Freehold,NULL,"ONE TREE HILL COLLECTION",2950,3120,"New Sale","Semi-Detached House",Uncompleted,10,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,3,"ASCENT @ 456",700,1314,"Sub Sale","Non-landed Properties",Completed,12,"Central Region",Novena
+"1-10 floor",201901,2019-01-18,Freehold,6,"CHANTILLY RISE",1750,1062,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-18,Non-Freehold,4,"HEDGES PARK CONDOMINIUM",750,1031,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-18,Non-Freehold,11,"SPRING GROVE",1000,1552,Resale,"Executive Condominium",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-18,Freehold,4,"ST MICHAEL'S PLACE",1250,1033,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-18,Freehold,8,"RV ALTITUDE",600,2834,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,2,"RV ALTITUDE",600,2761,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,2,"CHANGI GREEN",1200,1044,Resale,"Executive Condominium",Completed,16,"East Region",Tampines
+"1-10 floor",201901,2019-01-18,Freehold,2,"28 SHELFORD",1200,1689,Resale,"Non-landed Properties",Completed,11,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-18,Non-Freehold,8,SEAHILL,500,1419,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-18,Non-Freehold,9,"KOVAN MELODY",1250,1084,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-18,Freehold,7,"RV ALTITUDE",450,3057,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+NULL,201901,2019-01-18,Freehold,NULL,"BLAIR PLAIN CONSERVATION AREA",900,3493,Resale,"Terrace House",Completed,2,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-18,Non-Freehold,8,"PARC OLYMPIA",1300,743,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-18,Non-Freehold,1,"THE VISION",2100,768,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-18,Non-Freehold,6,MERAWOODS,1000,1047,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-18,Freehold,6,"RV ALTITUDE",600,2809,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,3,"SUNSHINE RESIDENCE",600,1242,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-18,Freehold,2,"TROPIKA EAST",450,1415,Resale,"Executive Condominium",Completed,14,"East Region",Bedok
+"1-10 floor",201901,2019-01-18,Non-Freehold,5,"CARDIFF RESIDENCE",400,1370,Resale,"Executive Condominium",Completed,19,"North East Region",Serangoon
+NULL,201901,2019-01-18,Non-Freehold,NULL,"SELETAR HILLS ESTATE",3050,926,Resale,"Semi-Detached House",Completed,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-18,Freehold,3,"THE AMARELLE",1450,1439,Resale,"Non-landed Properties",Completed,15,"Central Region",Geylang
+"1-10 floor",201901,2019-01-18,Freehold,2,"SANDY EIGHT",700,1636,"New Sale","Non-landed Properties",Completed,15,"Central Region",Geylang
+"1-10 floor",201901,2019-01-18,Freehold,8,"RV ALTITUDE",450,3073,"New Sale","Non-landed Properties",Uncompleted,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Freehold,3,"EURO-ASIA PARK",1450,1244,Resale,"Executive Condominium",Completed,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-18,Freehold,12,"ONE AMBER",550,1823,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-18,Non-Freehold,7,"THE CANOPY",1200,871,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"11-20 floor",201901,2019-01-18,Freehold,16,"THE LAURELS",1300,2994,Resale,"Executive Condominium",Completed,9,"Central Region",Newton
+"1-10 floor",201901,2019-01-18,Freehold,9,AALTO,1550,1800,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"11-20 floor",201901,2019-01-18,Freehold,17,"NEW FUTURA",1850,3471,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-18,Non-Freehold,6,"DOUBLE BAY RESIDENCES",1350,1061,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-18,Freehold,3,"10 EVELYN",550,2406,"New Sale","Non-landed Properties",Uncompleted,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-18,Freehold,3,"DE CASALLE",1250,1187,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-19,Non-Freehold,6,"FOURTH AVENUE RESIDENCES",500,2474,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"THE JOVELL",550,1344,"New Sale","Executive Condominium",Uncompleted,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-19,Non-Freehold,8,"FOURTH AVENUE RESIDENCES",700,2487,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,8,"FOURTH AVENUE RESIDENCES",900,2495,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-19,Freehold,16,"FYVE DERBYSHIRE",800,2382,"New Sale","Non-landed Properties",Uncompleted,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-19,Non-Freehold,7,"FOURTH AVENUE RESIDENCES",700,2518,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",1150,2429,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",1500,2394,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",700,2384,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-19,Non-Freehold,13,"AFFINITY AT SERANGOON",550,1507,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-19,Non-Freehold,8,"FOURTH AVENUE RESIDENCES",700,2439,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",600,2480,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",500,2343,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",1100,2359,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",700,2411,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Freehold,2,"FYVE DERBYSHIRE",600,2481,"New Sale","Non-landed Properties",Uncompleted,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-19,Non-Freehold,8,"FOURTH AVENUE RESIDENCES",700,2535,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",500,2343,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,8,"FOURTH AVENUE RESIDENCES",1100,2518,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",700,2460,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",500,2320,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,6,"FOURTH AVENUE RESIDENCES",700,2486,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",500,2343,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",700,2346,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,1,"FOURTH AVENUE RESIDENCES",700,2414,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,1,"FOURTH AVENUE RESIDENCES",1500,2309,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Freehold,6,"3 CUSCADEN",450,3417,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-19,Non-Freehold,6,"FOURTH AVENUE RESIDENCES",500,2445,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",700,2453,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,7,"FOURTH AVENUE RESIDENCES",700,2422,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-19,Freehold,12,"FYVE DERBYSHIRE",950,2269,"New Sale","Non-landed Properties",Uncompleted,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-19,Non-Freehold,1,"FOURTH AVENUE RESIDENCES",500,2285,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",700,2471,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,9,"FOURTH AVENUE RESIDENCES",700,2504,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,9,"FOURTH AVENUE RESIDENCES",700,2492,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",500,2343,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",950,2353,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",700,2387,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",1100,2325,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,6,"FOURTH AVENUE RESIDENCES",650,2465,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",1500,2382,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,6,"FOURTH AVENUE RESIDENCES",1500,2449,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-19,Freehold,18,"FYVE DERBYSHIRE",950,2320,"New Sale","Non-landed Properties",Uncompleted,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",950,2377,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",500,2343,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-19,Non-Freehold,15,"STIRLING RESIDENCES",750,1778,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",700,2354,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",500,2421,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"31 - 50 floor",201901,2019-01-19,Non-Freehold,34,ARTRA,1250,1815,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",1500,2445,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",700,2413,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-19,Non-Freehold,10,"FOURTH AVENUE RESIDENCES",700,2490,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",700,2332,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",700,2453,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",1100,2290,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",700,2396,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"STIRLING RESIDENCES",800,1718,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-19,Freehold,13,"FYVE DERBYSHIRE",650,2572,"New Sale","Non-landed Properties",Uncompleted,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-19,Non-Freehold,4,"FOURTH AVENUE RESIDENCES",700,2400,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,7,"THE TRE VER",1350,1567,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-19,Non-Freehold,7,"FOURTH AVENUE RESIDENCES",700,2452,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"FOURTH AVENUE RESIDENCES",500,2343,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,2,"THE CLEMENT CANOPY",1350,1439,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-19,Non-Freehold,8,"FOURTH AVENUE RESIDENCES",450,2525,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-19,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",700,2383,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"21 - 30 floor",201901,2019-01-20,Non-Freehold,21,"PARC BOTANNIA",500,1395,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-20,Non-Freehold,10,"THE TAPESTRY",600,1471,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-20,Non-Freehold,6,"AFFINITY AT SERANGOON",600,1447,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-20,Non-Freehold,2,"RIVERFRONT RESIDENCES",700,1274,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-20,Non-Freehold,10,"AFFINITY AT SERANGOON",600,1504,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-20,Non-Freehold,13,"THE TRE VER",750,1641,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-20,Non-Freehold,10,"THE TAPESTRY",1150,1271,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+"21 - 30 floor",201901,2019-01-20,Non-Freehold,26,"WHISTLER GRAND",750,1465,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-20,Non-Freehold,11,"AFFINITY AT SERANGOON",550,1479,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-20,Non-Freehold,6,"WHISTLER GRAND",1050,1277,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-21,Freehold,12,"MARTIN PLACE RESIDENCES",1400,2006,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-21,Freehold,15,RIVERGATE,2100,2166,Resale,"Non-landed Properties",Completed,9,"Central Region","Singapore River"
+"1-10 floor",201901,2019-01-21,Freehold,3,"HUME PARK II",1700,1157,Resale,"Executive Condominium",Completed,21,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-21,Freehold,1,"57 @ KOVAN",1400,865,Resale,"Non-landed Properties",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-21,Non-Freehold,8,"THE LUXURIE",1050,1194,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-21,Freehold,15,"THOMSON 800",1400,1501,Resale,"Executive Condominium",Completed,11,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-21,Freehold,3,"BEAVERTON COURT",3100,1339,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+NULL,201901,2019-01-21,Non-Freehold,NULL,D'MANOR,2700,588,Resale,"Terrace House",Completed,16,"East Region",Bedok
+"21 - 30 floor",201901,2019-01-21,Non-Freehold,22,"MARGARET VILLE",950,1812,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-21,Non-Freehold,12,SUMMERDALE,1200,730,Resale,"Executive Condominium",Completed,22,"West Region","Jurong West"
+"1-10 floor",201901,2019-01-21,Non-Freehold,2,"ROSEWOOD SUITES",1250,754,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"1-10 floor",201901,2019-01-21,Non-Freehold,8,"URBAN VISTA",600,1385,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-21,Freehold,3,"EDELWEISS PARK CONDOMINIUM",1350,853,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-21,Non-Freehold,16,"MANDARIN GARDENS",2050,959,Resale,"Executive Condominium",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-21,Non-Freehold,5,"RIVERFRONT RESIDENCES",500,1275,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-21,Non-Freehold,6,"ROXY SQUARE",600,1377,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+NULL,201901,2019-01-21,Non-Freehold,NULL,"LOYANG VILLAS",1650,882,Resale,"Terrace House",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-21,Non-Freehold,15,"SEASIDE RESIDENCES",1250,2022,"New Sale","Non-landed Properties",Uncompleted,15,"East Region",Bedok
+"31 - 50 floor",201901,2019-01-21,Freehold,32,"VISTA RESIDENCES",1350,1566,Resale,"Executive Condominium",Completed,12,"Central Region",Novena
+NULL,201901,2019-01-21,Non-Freehold,NULL,N.A.,3500,1869,Resale,"Semi-Detached House",Completed,21,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-21,Non-Freehold,13,"EIGHT RIVERSUITES",700,1544,Resale,"Executive Condominium",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-21,Non-Freehold,8,"HILLVIEW GREEN",1300,987,Resale,"Executive Condominium",Completed,21,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-21,Non-Freehold,3,SEAHILL,500,1424,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-21,Non-Freehold,13,"THE SERENADE @ HOLLAND",1500,1161,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-21,Non-Freehold,9,"THE EDEN AT TAMPINES",1250,825,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+NULL,201901,2019-01-21,Non-Freehold,NULL,"NIM COLLECTION",1950,1390,"New Sale","Terrace House",Uncompleted,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-21,Non-Freehold,6,ASTOR,1100,787,Resale,"Non-landed Properties",Completed,14,"East Region",Bedok
+"11-20 floor",201901,2019-01-21,Freehold,14,RIVERGATE,1050,2275,Resale,"Non-landed Properties",Completed,9,"Central Region","Singapore River"
+"1-10 floor",201901,2019-01-21,Freehold,4,"WARNER COURT",1250,1567,Resale,"Non-landed Properties",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-21,Non-Freehold,7,SEASTRAND,1100,977,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-21,Non-Freehold,10,LIVIA,1250,838,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-21,Non-Freehold,12,"MARINA ONE RESIDENCES",1150,2415,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"1-10 floor",201901,2019-01-21,Non-Freehold,2,"EMERALD GARDEN",1250,2100,Resale,"Executive Condominium",Completed,1,"Central Region",Outram
+"1-10 floor",201901,2019-01-21,Freehold,4,"SERAYA RESIDENCES",1150,1587,"New Sale","Non-landed Properties",Uncompleted,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-21,Freehold,5,SEASUITES,500,1819,"Sub Sale","Non-landed Properties",Completed,5,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-21,Non-Freehold,7,"BARTLEY RIDGE",1000,1378,Resale,"Executive Condominium",Completed,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-21,Non-Freehold,7,"AZALEA PARK CONDOMINIUM",1500,921,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-21,Non-Freehold,7,"RIO VISTA",1400,835,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+NULL,201901,2019-01-21,Freehold,NULL,N.A.,8950,1438,Resale,"Detached House",Completed,11,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-21,Freehold,7,"MONARCHY APARTMENTS",1150,1161,Resale,"Non-landed Properties",Completed,11,"Central Region",Novena
+"21 - 30 floor",201901,2019-01-21,Non-Freehold,25,"HARBOUR VIEW TOWERS",1200,1330,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-21,Non-Freehold,4,"REFLECTIONS AT KEPPEL BAY",1000,1557,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-22,Freehold,9,"THE ANCHORAGE",1150,1566,Resale,"Executive Condominium",Completed,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-22,Freehold,3,"COUNTRY PARK CONDOMINIUM",1350,1261,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-22,Non-Freehold,18,"WATER PLACE",1300,1405,Resale,"Executive Condominium",Completed,15,"Central Region",Kallang
+NULL,201901,2019-01-22,Freehold,NULL,N.A.,4200,595,Resale,"Semi-Detached House",Completed,25,"North Region","Sungei Kadut"
+NULL,201901,2019-01-22,Non-Freehold,NULL,"LUXUS HILLS",1600,1846,Resale,"Terrace House",Completed,28,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-22,Non-Freehold,9,"SANCTUARY GREEN",1150,1302,Resale,"Executive Condominium",Completed,15,"Central Region",Kallang
+"1-10 floor",201901,2019-01-22,Non-Freehold,8,"MARTIN MODERN",750,2594,"New Sale","Executive Condominium",Uncompleted,9,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-22,Non-Freehold,14,"NV RESIDENCES",1200,982,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-22,Non-Freehold,6,"MELVILLE PARK",1350,654,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+NULL,201901,2019-01-22,Freehold,NULL,"MAYFLOWER GARDENS",2050,1220,Resale,"Terrace House",Completed,20,"North East Region","Ang Mo Kio"
+"11-20 floor",201901,2019-01-22,Non-Freehold,10,D'NEST,800,1097,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-22,Non-Freehold,10,"EASTPOINT GREEN",1150,835,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"11-20 floor",201901,2019-01-22,Freehold,18,AALTO,2000,1917,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"21 - 30 floor",201901,2019-01-22,Freehold,23,"THE MARBELLA",1750,1835,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+NULL,201901,2019-01-22,Non-Freehold,NULL,WESTVILLE,1650,746,Resale,"Terrace House",Completed,22,"West Region","Jurong West"
+"1-10 floor",201901,2019-01-22,Freehold,2,"HOLLAND MEWS",900,1747,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-22,Freehold,6,"BOON TECK TOWER",1650,1086,Resale,"Executive Condominium",Completed,12,"Central Region",Novena
+"1-10 floor",201901,2019-01-22,Non-Freehold,4,"ESPARINA RESIDENCES",1000,1099,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-22,Non-Freehold,14,"RIVER ISLES",1150,993,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-22,Non-Freehold,1,ARCHIPELAGO,1550,1097,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-22,Non-Freehold,4,"ORCHID PARK CONDOMINIUM",950,762,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+NULL,201901,2019-01-22,Freehold,NULL,N.A.,1500,1010,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-22,Non-Freehold,2,"THE TAPESTRY",600,1416,"New Sale","Executive Condominium",Uncompleted,18,"East Region",Tampines
+NULL,201901,2019-01-22,Freehold,NULL,"SEMBAWANG HILLS ESTATE",2050,1388,Resale,"Semi-Detached House",Completed,20,"North East Region","Ang Mo Kio"
+"1-10 floor",201901,2019-01-22,Non-Freehold,5,"THE NAUTICAL",950,981,Resale,"Executive Condominium",Completed,27,"North Region",Sembawang
+"11-20 floor",201901,2019-01-22,Freehold,11,PARVIS,1000,2020,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-22,Freehold,14,"TWIN REGENCY",1000,1838,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"11-20 floor",201901,2019-01-22,Non-Freehold,19,"COSTA DEL SOL",1250,1336,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-22,Non-Freehold,11,"HILLION RESIDENCES",450,1836,Resale,"Non-landed Properties",Completed,23,"West Region","Bukit Panjang"
+"1-10 floor",201901,2019-01-22,Freehold,3,"FAMILIE MANSIONS",1250,701,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"21 - 30 floor",201901,2019-01-22,Freehold,21,"SPOTTISWOODE SUITES",450,2447,Resale,"Non-landed Properties",Completed,2,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-22,Freehold,5,"FERRARIA PARK CONDOMINIUM",1000,865,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-22,Non-Freehold,9,D'LEEDON,2450,1547,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-22,Non-Freehold,12,"THE WARREN",1050,861,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+NULL,201901,2019-01-23,Freehold,NULL,N.A.,2950,1306,Resale,"Terrace House",Completed,15,"East Region",Bedok
+NULL,201901,2019-01-23,Freehold,NULL,N.A.,6550,1760,Resale,"Detached House",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-23,Non-Freehold,2,"VARSITY PARK CONDOMINIUM",1550,1178,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-23,Non-Freehold,2,"THE LINEAR",1200,1012,Resale,"Non-landed Properties",Completed,23,"West Region","Bukit Panjang"
+"1-10 floor",201901,2019-01-23,Non-Freehold,2,"STIRLING RESIDENCES",1000,1681,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"21 - 30 floor",201901,2019-01-23,Non-Freehold,24,"SOLEIL @ SINARAN",1500,1952,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"31 - 50 floor",201901,2019-01-23,Non-Freehold,33,"SOUTH BEACH RESIDENCES",1900,3315,Resale,"Non-landed Properties",Completed,7,"Central Region","Downtown Core"
+"11-20 floor",201901,2019-01-23,Non-Freehold,17,"THE VISION",1300,1302,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-23,Freehold,16,"RESIDENCES @ EVELYN",1150,1911,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-23,Non-Freehold,2,"NV RESIDENCES",900,894,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-23,Non-Freehold,15,"THE MINTON",600,1217,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-23,Non-Freehold,11,"THE CANOPY",850,856,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+NULL,201901,2019-01-23,Freehold,NULL,N.A.,15200,2032,Resale,"Detached House",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-23,Non-Freehold,6,"RIVERPARC RESIDENCE",1250,856,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"11-20 floor",201901,2019-01-23,Non-Freehold,18,"COSTA DEL SOL",1300,1355,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-23,Non-Freehold,4,"RIO VISTA",1250,841,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+NULL,201901,2019-01-23,Freehold,NULL,N.A.,1400,1080,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"11-20 floor",201901,2019-01-23,Freehold,15,"THE WATERSIDE",2400,1721,Resale,"Executive Condominium",Completed,15,"Central Region",Kallang
+"1-10 floor",201901,2019-01-23,Freehold,5,"PARK EAST",1300,1322,Resale,"Executive Condominium",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-23,Freehold,6,"ATRIUM RESIDENCES",1050,1006,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-23,Non-Freehold,12,WHITEWATER,950,731,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-23,Non-Freehold,7,"SKIES MILTONIA",1100,985,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"1-10 floor",201901,2019-01-23,Non-Freehold,4,"SIMS URBAN OASIS",1750,1418,Resale,"Executive Condominium",Completed,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-23,Non-Freehold,15,"THE LUXURIE",1050,1082,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-23,Non-Freehold,4,"ESPARINA RESIDENCES",1050,1079,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-23,Non-Freehold,5,"YEW MEI GREEN",1350,682,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+"11-20 floor",201901,2019-01-24,Non-Freehold,13,"THE TRE VER",700,1601,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-24,Non-Freehold,7,"RIVERFRONT RESIDENCES",900,1255,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-24,Freehold,2,"CALLIDORA VILLE",750,1194,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-24,Non-Freehold,1,"VARSITY PARK CONDOMINIUM",1900,1077,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-24,Non-Freehold,8,"MARINA ONE RESIDENCES",1150,2204,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"11-20 floor",201901,2019-01-24,Non-Freehold,11,RIVERSAILS,1350,1127,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-24,Non-Freehold,8,"PARC BOTANNIA",650,1329,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-24,Non-Freehold,11,"AFFINITY AT SERANGOON",1100,1496,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-24,Non-Freehold,13,"THE INTERLACE",1600,1361,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+NULL,201901,2019-01-24,Freehold,NULL,"BENG TONG MANSION",900,1835,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-24,Non-Freehold,8,"WHISTLER GRAND",600,1318,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-24,Non-Freehold,2,"SUNRISE GARDENS",1300,820,Resale,"Executive Condominium",Completed,28,"North East Region","Ang Mo Kio"
+"21 - 30 floor",201901,2019-01-24,Non-Freehold,27,"THE JADE",1350,1081,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-24,Freehold,9,"PEACH GARDEN",2750,1330,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-24,Freehold,7,COSMO,400,1548,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-24,Non-Freehold,10,"THE MINTON",1200,1061,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"21 - 30 floor",201901,2019-01-24,Non-Freehold,25,"MARGARET VILLE",850,1786,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-24,Non-Freehold,1,REGENTVILLE,1150,671,Resale,"Non-landed Properties",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-24,Freehold,6,"FERRARIA PARK CONDOMINIUM",1000,924,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-24,Non-Freehold,1,NORTHWAVE,1150,864,"New Sale","Executive Condominium",Completed,25,"North Region",Woodlands
+"1-10 floor",201901,2019-01-24,Non-Freehold,9,"PARC ESTA",1250,1574,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-24,Freehold,9,"SUITES @ SURREY",900,1623,Resale,"Non-landed Properties",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-24,Freehold,7,"HILLVIEW HEIGHTS",950,1232,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-24,Non-Freehold,15,"HIGH PARK RESIDENCES",700,1217,"Sub Sale","Non-landed Properties",Uncompleted,28,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-24,Non-Freehold,9,"WATERFRONT ISLE",950,1172,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-24,Freehold,NULL,N.A.,3250,1132,Resale,"Semi-Detached House",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-24,Non-Freehold,2,"HEDGES PARK CONDOMINIUM",1100,846,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-24,Non-Freehold,5,"PARC OLYMPIA",800,967,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-24,Non-Freehold,15,"A TREASURE TROVE",900,1102,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"11-20 floor",201901,2019-01-24,Non-Freehold,10,"PARC BOTANNIA",850,1273,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-24,Non-Freehold,13,"TREE HOUSE",1150,1120,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Panjang"
+"1-10 floor",201901,2019-01-24,Non-Freehold,7,"CARIBBEAN AT KEPPEL BAY",1300,1456,Resale,"Executive Condominium",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-24,Non-Freehold,6,"AZALEA PARK CONDOMINIUM",850,923,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-24,Non-Freehold,19,"STIRLING RESIDENCES",650,1786,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-24,Non-Freehold,2,"THE HILLFORD",400,1173,Resale,"Non-landed Properties",Completed,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-24,Non-Freehold,5,"AFFINITY AT SERANGOON",600,1446,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-25,Non-Freehold,6,"KINGSFORD . HILLVIEW PEAK",800,1355,"Sub Sale","Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-25,Freehold,12,"OCEAN PARK",2100,1389,Resale,"Executive Condominium",Completed,15,"East Region",Bedok
+"11-20 floor",201901,2019-01-25,Non-Freehold,13,"AFFINITY AT SERANGOON",750,1568,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-25,Freehold,16,"DE ROYALE",1250,1334,Resale,"Executive Condominium",Completed,12,"Central Region",Novena
+"1-10 floor",201901,2019-01-25,Freehold,3,"CASA AL MARE",500,1610,"New Sale","Non-landed Properties",Uncompleted,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-25,Non-Freehold,7,"COSTA RHU",2050,1187,Resale,"Executive Condominium",Completed,15,"Central Region",Kallang
+"31 - 50 floor",201901,2019-01-25,Non-Freehold,34,"SOUTH BEACH RESIDENCES",1650,3153,Resale,"Non-landed Properties",Completed,7,"Central Region","Downtown Core"
+"1-10 floor",201901,2019-01-25,Non-Freehold,6,"FOURTH AVENUE RESIDENCES",950,2453,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-25,Non-Freehold,5,LAKEVILLE,550,1358,Resale,"Executive Condominium",Completed,22,"West Region","Jurong West"
+"1-10 floor",201901,2019-01-25,Freehold,7,"BALLOTA PARK CONDOMINIUM",1450,782,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+NULL,201901,2019-01-25,Non-Freehold,NULL,D'MANOR,2700,664,Resale,"Terrace House",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-25,Non-Freehold,5,"THE CANOPY",1200,737,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"11-20 floor",201901,2019-01-25,Freehold,12,"SUITES @ AMBER",900,1541,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-25,Non-Freehold,1,"KANDIS RESIDENCE",750,1238,"New Sale","Executive Condominium",Uncompleted,27,"North Region",Sembawang
+NULL,201901,2019-01-25,Freehold,NULL,N.A.,1500,1300,Resale,"Terrace House",Completed,13,"Central Region",Geylang
+NULL,201901,2019-01-25,Non-Freehold,NULL,"LUXUS HILLS",1600,1787,Resale,"Terrace House",Completed,28,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-25,Freehold,17,TRILIGHT,1100,1840,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"11-20 floor",201901,2019-01-25,Non-Freehold,17,"PARC BOTANNIA",600,1436,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-25,Non-Freehold,12,"AFFINITY AT SERANGOON",450,1689,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-25,Non-Freehold,13,"AFFINITY AT SERANGOON",450,1495,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+NULL,201901,2019-01-25,Non-Freehold,NULL,"TAI KENG VILLAS",2650,734,Resale,"Terrace House",Completed,19,"North East Region",Hougang
+NULL,201901,2019-01-25,Non-Freehold,NULL,N.A.,5100,953,Resale,"Semi-Detached House",Completed,19,"North East Region",Hougang
+NULL,201901,2019-01-25,Freehold,NULL,"LUCKY PARK",3800,1595,Resale,"Semi-Detached House",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-25,Freehold,15,"NADIA MANSIONS",2300,1139,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+"1-10 floor",201901,2019-01-25,Non-Freehold,7,"PARC ESTA",700,1732,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-25,Non-Freehold,13,"SOLEIL @ SINARAN",950,1722,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"11-20 floor",201901,2019-01-25,Non-Freehold,13,WATERTOWN,550,1367,"Sub Sale","Non-landed Properties",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-25,Non-Freehold,4,"PARC VERA",700,1028,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-25,Non-Freehold,13,"THE FLORIDA",1300,734,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-25,Non-Freehold,4,"OASIS @ ELIAS",950,774,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-25,Non-Freehold,11,"THE VALES",1050,939,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-25,Non-Freehold,16,"COCO PALMS",750,1286,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-25,Freehold,3,"CASA AL MARE",1100,1567,"New Sale","Non-landed Properties",Uncompleted,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-25,Freehold,2,"RV SUITES",700,1401,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-25,Freehold,14,"JUI RESIDENCES",450,1752,"New Sale","Non-landed Properties",Uncompleted,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-25,Non-Freehold,3,"IVORY HEIGHTS",1650,905,Resale,"Executive Condominium",Completed,22,"West Region","Jurong East"
+"1-10 floor",201901,2019-01-25,Freehold,3,"SUITES @ KOVAN",350,1530,Resale,"Non-landed Properties",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-25,Non-Freehold,8,"GUILIN VIEW",850,829,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+NULL,201901,2019-01-25,Freehold,NULL,"FRANKEL ESTATE",3100,1317,Resale,"Semi-Detached House",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-25,Non-Freehold,8,"MARINA ONE RESIDENCES",700,2556,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"1-10 floor",201901,2019-01-25,Non-Freehold,6,"KANDIS RESIDENCE",950,1296,"New Sale","Executive Condominium",Uncompleted,27,"North Region",Sembawang
+"11-20 floor",201901,2019-01-25,Non-Freehold,16,"YEW MEI GREEN",1300,705,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+"1-10 floor",201901,2019-01-25,Non-Freehold,9,WINDERMERE,1450,640,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+"11-20 floor",201901,2019-01-25,Non-Freehold,15,"KOVAN RESIDENCES",900,1473,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-25,Non-Freehold,11,PRIVE,850,1026,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"11-20 floor",201901,2019-01-25,Non-Freehold,17,"JERVOIS JADE APARTMENTS",2250,960,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-25,Non-Freehold,9,"AFFINITY AT SERANGOON",600,1465,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-25,Non-Freehold,14,CITYLIGHTS,700,1578,Resale,"Executive Condominium",Completed,8,"Central Region",Kallang
+"1-10 floor",201901,2019-01-25,Non-Freehold,4,"PARC ESTA",850,1525,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-25,Freehold,13,"ARENA RESIDENCES",800,1895,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-25,Freehold,10,"368 THOMSON",1700,1536,Resale,"Executive Condominium",Completed,11,"Central Region",Novena
+"1-10 floor",201901,2019-01-25,Non-Freehold,4,"THE MILTONIA RESIDENCES",850,941,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"31 - 50 floor",201901,2019-01-25,Non-Freehold,34,"SOUTH BEACH RESIDENCES",1600,3487,Resale,"Non-landed Properties",Completed,7,"Central Region","Downtown Core"
+"11-20 floor",201901,2019-01-25,Non-Freehold,16,KERRISDALE,1250,1072,Resale,"Executive Condominium",Completed,8,"Central Region",Kallang
+"11-20 floor",201901,2019-01-25,Non-Freehold,12,"TANGLIN VIEW",1150,1385,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"11-20 floor",201901,2019-01-25,Non-Freehold,14,ECHELON,1300,1774,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-25,Non-Freehold,7,"HEDGES PARK CONDOMINIUM",1000,879,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-26,Non-Freehold,12,"AFFINITY AT SERANGOON",450,1503,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-26,Non-Freehold,15,"WHISTLER GRAND",450,1529,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-26,Non-Freehold,10,"AFFINITY AT SERANGOON",450,1491,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-26,Non-Freehold,3,"FOURTH AVENUE RESIDENCES",450,2331,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-26,Non-Freehold,1,"AFFINITY AT SERANGOON",550,1401,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-26,Non-Freehold,15,"THE TRE VER",1100,1617,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-26,Non-Freehold,14,"AFFINITY AT SERANGOON",450,1501,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-26,Freehold,15,"AMBER 45",1350,2038,"New Sale","Non-landed Properties",Uncompleted,15,"Central Region","Marine Parade"
+"11-20 floor",201901,2019-01-26,Non-Freehold,13,"AFFINITY AT SERANGOON",750,1649,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-26,Non-Freehold,11,"AFFINITY AT SERANGOON",600,1509,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-26,Non-Freehold,15,"RIVERFRONT RESIDENCES",600,1387,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-26,Non-Freehold,6,"PARK COLONIAL",1000,1715,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-26,Non-Freehold,11,"PARC ESTA",650,1661,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-26,Non-Freehold,1,"MARTIN MODERN",1800,2789,"New Sale","Executive Condominium",Uncompleted,9,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-26,Non-Freehold,11,"RIVERFRONT RESIDENCES",900,1353,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-26,Non-Freehold,5,"STIRLING RESIDENCES",1000,1700,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-26,Non-Freehold,19,"MARTIN MODERN",750,2773,"New Sale","Executive Condominium",Uncompleted,9,"Central Region","River Valley"
+"21 - 30 floor",201901,2019-01-26,Non-Freehold,26,"SEASIDE RESIDENCES",1100,2049,"New Sale","Non-landed Properties",Uncompleted,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-26,Non-Freehold,5,"MAYFAIR GARDENS",750,2040,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-27,Non-Freehold,7,"FOURTH AVENUE RESIDENCES",700,2503,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-27,Non-Freehold,7,"AFFINITY AT SERANGOON",600,1648,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-27,Non-Freehold,19,"WHISTLER GRAND",600,1459,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-27,Non-Freehold,11,"AFFINITY AT SERANGOON",750,1554,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-27,Non-Freehold,11,"AFFINITY AT SERANGOON",600,1648,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,4,"KENT RIDGE HILL RESIDENCES",650,1730,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-27,Non-Freehold,8,"AFFINITY AT SERANGOON",600,1460,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,2,"AFFINITY AT SERANGOON",450,1486,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,8,"AFFINITY AT SERANGOON",600,1656,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,2,"KENT RIDGE HILL RESIDENCES",450,1685,"New Sale","Non-landed Properties",Uncompleted,5,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-27,Non-Freehold,7,"AFFINITY AT SERANGOON",1100,1474,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-27,Non-Freehold,13,"AFFINITY AT SERANGOON",600,1663,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,9,"AFFINITY AT SERANGOON",600,1501,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,6,"AFFINITY AT SERANGOON",850,1496,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,8,"THE TRE VER",1100,1549,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-27,Freehold,8,"THE ADDITION",950,1604,"New Sale","Non-landed Properties",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-27,Non-Freehold,10,"AFFINITY AT SERANGOON",600,1470,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,6,"AFFINITY AT SERANGOON",850,1502,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-27,Non-Freehold,4,"WHISTLER GRAND",600,1341,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"11-20 floor",201901,2019-01-27,Non-Freehold,14,"AFFINITY AT SERANGOON",450,1548,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"21 - 30 floor",201901,2019-01-28,Freehold,23,"THE SEAFRONT ON MEYER",4300,1816,Resale,"Executive Condominium",Completed,15,"Central Region","Marine Parade"
+"11-20 floor",201901,2019-01-28,Non-Freehold,16,"RIVER ISLES",950,998,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"11-20 floor",201901,2019-01-28,Non-Freehold,16,"PARC BOTANNIA",850,1325,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-28,Non-Freehold,7,"MARGARET VILLE",850,1656,"New Sale","Non-landed Properties",Uncompleted,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-28,Non-Freehold,2,"PARC ESTA",450,1759,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-28,Non-Freehold,11,"THE GARDEN RESIDENCES",1100,1678,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-28,Freehold,9,"BELMOND GREEN",1300,1866,Resale,"Executive Condominium",Completed,10,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-28,Non-Freehold,13,"YISHUN EMERALD",1200,718,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"1-10 floor",201901,2019-01-28,Non-Freehold,4,"BLUWATERS 2",950,918,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-28,Non-Freehold,8,"CASTLE GREEN",950,874,Resale,"Executive Condominium",Completed,26,"North East Region","Ang Mo Kio"
+NULL,201901,2019-01-28,Non-Freehold,NULL,"REGENT VILLAS",2850,1217,Resale,"Semi-Detached House",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-28,Non-Freehold,3,"MONTEREY PARK CONDOMINIUM",1350,1200,Resale,"Executive Condominium",Completed,5,"West Region",Clementi
+"31 - 50 floor",201901,2019-01-28,Freehold,39,RIVERGATE,1800,2142,Resale,"Non-landed Properties",Completed,9,"Central Region","Singapore River"
+"11-20 floor",201901,2019-01-28,Non-Freehold,17,"PARC ESTA",400,1951,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-28,Non-Freehold,12,"PARC ESTA",700,1726,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+NULL,201901,2019-01-28,Non-Freehold,NULL,"LOYANG VILLAS",1650,874,Resale,"Terrace House",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-28,Non-Freehold,12,"RIVERFRONT RESIDENCES",450,1404,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Hougang
+"21 - 30 floor",201901,2019-01-28,Non-Freehold,29,"CLOVER BY THE PARK",1750,1231,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+NULL,201901,2019-01-28,Freehold,NULL,N.A.,1850,1962,Resale,"Terrace House",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-28,Non-Freehold,2,CASPIAN,1200,1036,Resale,"Executive Condominium",Completed,22,"West Region","Jurong West"
+"1-10 floor",201901,2019-01-28,Non-Freehold,3,"THE CANOPY",1400,816,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"1-10 floor",201901,2019-01-28,Freehold,6,"THE SUNNY SPRING",1200,1132,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-28,Non-Freehold,9,"AFFINITY AT SERANGOON",600,1573,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-28,Freehold,13,"ARENA RESIDENCES",600,1846,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-28,Freehold,2,N.A.,1100,1530,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-28,Non-Freehold,12,"AFFINITY AT SERANGOON",600,1478,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-28,Freehold,7,SUMMERHILL,1450,1280,Resale,"Executive Condominium",Completed,21,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-28,Non-Freehold,7,RIVERSAILS,1100,1055,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"1-10 floor",201901,2019-01-28,Freehold,6,"CENTRA SUITES",450,1405,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-28,Non-Freehold,4,"THE GARDEN RESIDENCES",500,1456,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+NULL,201901,2019-01-28,Freehold,NULL,N.A.,8100,1259,Resale,"Detached House",Completed,5,"West Region",Clementi
+"1-10 floor",201901,2019-01-28,Non-Freehold,5,"THE NAUTICAL",1800,811,Resale,"Executive Condominium",Completed,27,"North Region",Sembawang
+"11-20 floor",201901,2019-01-28,Freehold,12,"111 EMERALD HILL",3650,2012,Resale,"Non-landed Properties",Completed,9,"Central Region",Newton
+"21 - 30 floor",201901,2019-01-28,Non-Freehold,20,"THOMSON GRAND",2150,1214,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+"11-20 floor",201901,2019-01-28,Non-Freehold,12,"EIGHT RIVERSUITES",950,1324,Resale,"Executive Condominium",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-28,Non-Freehold,2,"DAINTREE RESIDENCE",600,1652,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-28,Freehold,5,"PARC ELEGANCE",850,1080,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-28,Non-Freehold,1,"MAYFAIR GARDENS",650,1926,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-28,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",1500,2428,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-28,Non-Freehold,4,"ARC AT TAMPINES",800,902,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-28,Non-Freehold,7,"THE TRE VER",500,1541,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"11-20 floor",201901,2019-01-28,Non-Freehold,10,"BEDOK RESIDENCES",1150,1511,Resale,"Non-landed Properties",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-28,Non-Freehold,9,"BARTLEY RESIDENCES",1100,1239,Resale,"Non-landed Properties",Completed,19,"North East Region",Serangoon
+NULL,201901,2019-01-28,Non-Freehold,NULL,"NICON GARDENS",1950,645,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-28,Freehold,4,"NINETEEN SHELFORD ROAD",750,1493,Resale,"Executive Condominium",Completed,11,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-28,Non-Freehold,12,WOODSVALE,1250,652,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"1-10 floor",201901,2019-01-28,Non-Freehold,9,"THE CREST",1200,1774,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-29,Freehold,2,"CHANGI COURT",950,1012,Resale,"Executive Condominium",Completed,16,"East Region",Tampines
+"1-10 floor",201901,2019-01-29,Freehold,3,"CASA CAMBIO",500,1531,Resale,"Executive Condominium",Completed,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-29,Non-Freehold,17,"THE TRE VER",700,1645,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-29,Non-Freehold,9,D'NEST,750,1095,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+NULL,201901,2019-01-29,Non-Freehold,NULL,"EASTWOOD PARK",2900,773,Resale,"Terrace House",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-29,Freehold,3,HILLVISTA,1150,1283,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"11-20 floor",201901,2019-01-29,Freehold,18,"PLATINUM EDGE",2150,906,Resale,"Non-landed Properties",Completed,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-29,Non-Freehold,9,ECHELON,750,1947,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-29,Freehold,6,"THE MORNINGTON",1200,913,Resale,"Non-landed Properties",Completed,12,"Central Region",Kallang
+NULL,201901,2019-01-29,Freehold,NULL,N.A.,2300,1157,Resale,"Terrace House",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-29,Freehold,6,"AVA TOWERS",1250,994,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+"11-20 floor",201901,2019-01-29,Non-Freehold,19,"THE QUARTZ",1050,952,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-29,Non-Freehold,9,"THE BAYSHORE",950,950,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-29,Freehold,14,"ARENA RESIDENCES",1300,1317,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-29,Freehold,3,"THE ASANA",750,2261,Resale,"Non-landed Properties",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-29,Freehold,7,"THE ANCHORAGE",1500,1473,Resale,"Executive Condominium",Completed,3,"Central Region",Queenstown
+"1-10 floor",201901,2019-01-29,Non-Freehold,1,"PALM ISLES",850,929,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-29,Non-Freehold,11,"CRAIG PLACE",750,1818,Resale,"Non-landed Properties",Completed,2,"Central Region",Outram
+"31 - 50 floor",201901,2019-01-29,Freehold,34,"8 SAINT THOMAS",800,3512,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-29,Freehold,3,"FERRARIA PARK CONDOMINIUM",950,884,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-29,Non-Freehold,5,"AFFINITY AT SERANGOON",850,1475,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-29,Non-Freehold,1,"THE PALETTE",1000,887,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-29,Non-Freehold,16,"EIGHT RIVERSUITES",850,1441,Resale,"Executive Condominium",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-29,Non-Freehold,5,"MAYFAIR GARDENS",850,1807,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+NULL,201901,2019-01-29,Freehold,NULL,N.A.,4900,1308,Resale,"Semi-Detached House",Completed,11,"Central Region",Novena
+"11-20 floor",201901,2019-01-29,Freehold,15,"RICHMOND PARK",1250,2477,Resale,"Executive Condominium",Completed,9,"Central Region",Newton
+"1-10 floor",201901,2019-01-29,Freehold,3,PARVIS,1700,1929,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-29,Non-Freehold,16,"SIMS URBAN OASIS",600,1578,Resale,"Executive Condominium",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-29,Non-Freehold,1,"CANBERRA RESIDENCES",950,835,Resale,"Executive Condominium",Completed,27,"North Region",Sembawang
+NULL,201901,2019-01-29,Non-Freehold,NULL,N.A.,8750,1948,Resale,"Detached House",Completed,4,"Central Region","Southern Islands"
+"1-10 floor",201901,2019-01-29,Non-Freehold,1,"PARC ROSEWOOD",500,1285,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"1-10 floor",201901,2019-01-29,Freehold,9,ECOVILLE,1200,1250,Resale,"Non-landed Properties",Completed,12,"Central Region",Novena
+"11-20 floor",201901,2019-01-29,Non-Freehold,14,"PARK COLONIAL",850,1709,"New Sale","Executive Condominium",Uncompleted,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-29,Non-Freehold,8,"URBAN VISTA",450,1473,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"11-20 floor",201901,2019-01-29,Freehold,17,"AMBER SKYE",1200,2055,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-29,Non-Freehold,8,WATERTOWN,600,1244,"Sub Sale","Non-landed Properties",Completed,19,"North East Region",Punggol
+NULL,201901,2019-01-29,Non-Freehold,NULL,"SERANGOON GARDEN ESTATE",2900,1029,Resale,"Terrace House",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-29,Freehold,3,"GLENDALE PARK",1050,1147,Resale,"Executive Condominium",Completed,23,"West Region","Bukit Batok"
+"1-10 floor",201901,2019-01-29,Freehold,2,"PALM VISTA",850,1219,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+NULL,201901,2019-01-29,Non-Freehold,NULL,"AFFINITY AT SERANGOON",2050,1109,"New Sale","Terrace House",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-29,Non-Freehold,3,"SELETAR PARK RESIDENCE",600,1239,Resale,"Executive Condominium",Completed,28,"North East Region",Serangoon
+NULL,201901,2019-01-29,Freehold,NULL,"THE SILVER SPURZ",2650,680,Resale,"Terrace House",Completed,19,"North East Region",Serangoon
+"21 - 30 floor",201901,2019-01-30,Non-Freehold,21,"NEPTUNE COURT",1650,998,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-30,Non-Freehold,8,"THE CANOPY",850,849,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"11-20 floor",201901,2019-01-30,Non-Freehold,13,"THE BAYSHORE",1200,971,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-30,Non-Freehold,3,"RIPPLE BAY",500,1166,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-30,Non-Freehold,2,"AFFINITY AT SERANGOON",450,1480,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-30,Freehold,1,CLYDESVIEW,2100,1221,Resale,"Executive Condominium",Completed,3,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-30,Non-Freehold,10,PRIVE,800,1017,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-30,Freehold,4,"448@EAST COAST",650,1231,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"21 - 30 floor",201901,2019-01-30,Freehold,24,"ARDMORE PARK",2900,3397,Resale,"Executive Condominium",Completed,10,"Central Region",Newton
+"1-10 floor",201901,2019-01-30,Non-Freehold,7,"AQUARIUS BY THE PARK",1200,949,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"31 - 50 floor",201901,2019-01-30,Non-Freehold,36,"V ON SHENTON",1750,2061,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"11-20 floor",201901,2019-01-30,Freehold,15,"ONE ST MICHAEL'S",1250,1350,Resale,"Executive Condominium",Completed,12,"Central Region",Kallang
+"1-10 floor",201901,2019-01-30,Freehold,2,"WILKIE 80",600,1464,Resale,"Non-landed Properties",Completed,9,"Central Region",Rochor
+"1-10 floor",201901,2019-01-30,Non-Freehold,3,"FOREST WOODS",950,1651,"New Sale","Executive Condominium",Uncompleted,19,"North East Region",Serangoon
+"21 - 30 floor",201901,2019-01-30,Non-Freehold,22,"PARC BOTANNIA",500,1395,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-30,Non-Freehold,17,"PARC BOTANNIA",500,1384,"New Sale","Executive Condominium",Uncompleted,28,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-30,Non-Freehold,6,"THE HILLFORD",400,1205,Resale,"Non-landed Properties",Completed,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-30,Freehold,2,"PALM OASIS",900,1190,Resale,"Non-landed Properties",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-30,Non-Freehold,4,"WHISTLER GRAND",500,1391,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"21 - 30 floor",201901,2019-01-30,Freehold,24,"ARDMORE PARK",2900,3432,Resale,"Executive Condominium",Completed,10,"Central Region",Newton
+"1-10 floor",201901,2019-01-30,Freehold,2,"10 SHELFORD",450,1765,Resale,"Non-landed Properties",Completed,11,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-30,Non-Freehold,5,"AFFINITY AT SERANGOON",750,1510,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-30,Freehold,7,HARBOURLIGHTS,750,1503,Resale,"Non-landed Properties",Completed,4,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-30,Non-Freehold,4,"THE BAYSHORE",1250,921,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+NULL,201901,2019-01-30,Non-Freehold,NULL,"LOYANG VILLAS",1600,966,Resale,"Terrace House",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-30,Non-Freehold,10,"RIVERBANK @ FERNVALE",1000,1107,Resale,"Executive Condominium",Completed,28,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-30,Non-Freehold,9,"RIVERVALE CREST",950,787,Resale,"Non-landed Properties",Completed,19,"North East Region",Sengkang
+"1-10 floor",201901,2019-01-30,Non-Freehold,1,"MI CASA",1250,874,Resale,"Executive Condominium",Completed,23,"West Region","Choa Chu Kang"
+"11-20 floor",201901,2019-01-30,Non-Freehold,16,"PARC OASIS",1250,1002,Resale,"Executive Condominium",Completed,22,"West Region","Jurong East"
+"1-10 floor",201901,2019-01-30,Freehold,3,"SOMMERVILLE PARK",1850,1571,Resale,"Executive Condominium",Completed,10,"Central Region",Tanglin
+"11-20 floor",201901,2019-01-30,Freehold,18,"LEONIE TOWERS",2900,1755,Resale,"Non-landed Properties",Completed,9,"Central Region","River Valley"
+NULL,201901,2019-01-30,Non-Freehold,NULL,"HILLCREST VILLA",3150,955,Resale,"Terrace House",Completed,11,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-30,Non-Freehold,4,"AFFINITY AT SERANGOON",600,1472,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-30,Non-Freehold,5,"FOURTH AVENUE RESIDENCES",1100,2464,"New Sale","Non-landed Properties",Uncompleted,10,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-30,Freehold,16,"DEVONSHIRE RESIDENCES",500,2424,Resale,"Non-landed Properties",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-30,Non-Freehold,5,"AFFINITY AT SERANGOON",450,1499,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-30,Non-Freehold,4,"WHISTLER GRAND",1450,1263,"New Sale","Non-landed Properties",Uncompleted,5,"West Region",Clementi
+"31 - 50 floor",201901,2019-01-30,Non-Freehold,35,"QUEENS PEAK",1000,1830,"New Sale","Executive Condominium",Uncompleted,3,"Central Region",Queenstown
+"21 - 30 floor",201901,2019-01-30,Freehold,20,"THE PRINCETON",1950,1310,Resale,"Non-landed Properties",Completed,10,"Central Region",Tanglin
+"1-10 floor",201901,2019-01-30,Non-Freehold,9,"SKIES MILTONIA",950,1020,Resale,"Executive Condominium",Completed,27,"North Region",Yishun
+"1-10 floor",201901,2019-01-30,Freehold,7,ALESSANDREA,1000,1573,Resale,"Non-landed Properties",Completed,3,"Central Region","Bukit Merah"
+"1-10 floor",201901,2019-01-30,Non-Freehold,4,"MAYFAIR GARDENS",550,1972,"New Sale","Executive Condominium",Uncompleted,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-30,Freehold,9,TRILIVE,900,1747,Resale,"Executive Condominium",Completed,19,"North East Region",Hougang
+"11-20 floor",201901,2019-01-30,Non-Freehold,10,D'LEEDON,2450,1514,Resale,"Executive Condominium",Completed,10,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-30,Non-Freehold,1,"PARC ROSEWOOD",950,898,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"1-10 floor",201901,2019-01-30,Non-Freehold,3,EUHABITAT,500,1277,Resale,"Executive Condominium",Completed,14,"East Region",Bedok
+"1-10 floor",201901,2019-01-30,Non-Freehold,4,"THE LINEAR",1300,952,Resale,"Non-landed Properties",Completed,23,"West Region","Bukit Panjang"
+"1-10 floor",201901,2019-01-30,Non-Freehold,1,"THE JOVELL",1250,1205,"New Sale","Executive Condominium",Uncompleted,17,"East Region","Pasir Ris"
+"51 - 99 floor",201901,2019-01-30,Non-Freehold,52,"V ON SHENTON",3900,2573,"New Sale","Non-landed Properties",Completed,1,"Central Region","Downtown Core"
+"1-10 floor",201901,2019-01-30,Freehold,4,"ESTELLA GARDENS",1150,848,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-31,Non-Freehold,3,"HEDGES PARK CONDOMINIUM",1350,922,Resale,"Executive Condominium",Completed,17,"East Region","Pasir Ris"
+"11-20 floor",201901,2019-01-31,Non-Freehold,13,LIVIA,1550,858,Resale,"Executive Condominium",Completed,18,"East Region","Pasir Ris"
+"1-10 floor",201901,2019-01-31,Non-Freehold,3,"THE BAYSHORE",950,864,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-31,Freehold,3,"TAIPAN JADE",1150,1108,Resale,"Non-landed Properties",Completed,15,"Central Region",Geylang
+"11-20 floor",201901,2019-01-31,Non-Freehold,15,"PARC CENTROS",450,1426,Resale,"Executive Condominium",Completed,19,"North East Region",Punggol
+"1-10 floor",201901,2019-01-31,Non-Freehold,3,"FAR HORIZON GARDENS",1950,749,Resale,"Executive Condominium",Completed,20,"North East Region","Ang Mo Kio"
+"1-10 floor",201901,2019-01-31,Non-Freehold,3,"AFFINITY AT SERANGOON",600,1438,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-31,Freehold,6,"LLOYD SIXTYFIVE",600,2852,Resale,"Non-landed Properties",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-31,Non-Freehold,3,"THE BERTH BY THE COVE",1650,1319,Resale,"Executive Condominium",Completed,4,"Central Region","Southern Islands"
+"1-10 floor",201901,2019-01-31,Non-Freehold,8,"THE LAKEFRONT RESIDENCES",700,1525,Resale,"Executive Condominium",Completed,22,"West Region","Jurong West"
+"1-10 floor",201901,2019-01-31,Freehold,3,"EAST GALLERIA",1150,1389,Resale,"Non-landed Properties",Completed,15,"Central Region","Marine Parade"
+"1-10 floor",201901,2019-01-31,Freehold,8,"LLOYD SIXTYFIVE",600,2941,Resale,"Non-landed Properties",Completed,9,"Central Region","River Valley"
+"11-20 floor",201901,2019-01-31,Non-Freehold,18,"TANGLIN VIEW",1700,1169,Resale,"Executive Condominium",Completed,3,"Central Region","Bukit Merah"
+"11-20 floor",201901,2019-01-31,Freehold,11,"TRELLIS TOWERS",1150,1358,Resale,"Executive Condominium",Completed,12,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-31,Non-Freehold,2,"SAVANNAH CONDOPARK",1000,863,Resale,"Executive Condominium",Completed,18,"East Region",Tampines
+"1-10 floor",201901,2019-01-31,Freehold,7,"ARENA RESIDENCES",600,1787,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-31,Non-Freehold,4,"AFFINITY AT SERANGOON",600,1441,"New Sale","Non-landed Properties",Uncompleted,19,"North East Region",Serangoon
+"11-20 floor",201901,2019-01-31,Non-Freehold,17,"COSTA DEL SOL",1250,1309,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-31,Freehold,4,"MARTIN PLACE RESIDENCES",600,2233,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+NULL,201901,2019-01-31,Freehold,NULL,N.A.,3550,1148,Resale,"Semi-Detached House",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-31,Non-Freehold,8,GARDENVISTA,1150,1363,Resale,"Executive Condominium",Completed,21,"Central Region","Bukit Timah"
+"11-20 floor",201901,2019-01-31,Freehold,13,"18 WOODSVILLE",500,1626,Resale,"Non-landed Properties",Completed,13,"Central Region","Toa Payoh"
+"1-10 floor",201901,2019-01-31,Non-Freehold,3,"ESPARINA RESIDENCES",850,1080,Resale,"Executive Condominium",Completed,19,"North East Region",Sengkang
+"11-20 floor",201901,2019-01-31,Non-Freehold,15,NORTHOAKS,2500,442,Resale,"Executive Condominium",Completed,25,"North Region",Woodlands
+"11-20 floor",201901,2019-01-31,Freehold,10,"THE PEAK @ CAIRNHILL II",900,2688,Resale,"Non-landed Properties",Completed,9,"Central Region",Newton
+"11-20 floor",201901,2019-01-31,Non-Freehold,16,"PARC ESTA",1000,1656,"New Sale","Non-landed Properties",Uncompleted,14,"Central Region",Geylang
+"11-20 floor",201901,2019-01-31,Non-Freehold,10,"BISHAN POINT",1200,1088,Resale,"Executive Condominium",Completed,20,"Central Region",Bishan
+NULL,201901,2019-01-31,Non-Freehold,NULL,"SERANGOON GARDEN ESTATE",3150,1131,Resale,"Terrace House",Completed,19,"North East Region",Serangoon
+"1-10 floor",201901,2019-01-31,Freehold,4,"JUBILEE RESIDENCE",850,1204,Resale,"Non-landed Properties",Completed,5,"Central Region",Queenstown
+"11-20 floor",201901,2019-01-31,Freehold,16,"8 SAINT THOMAS",800,3214,Resale,"Executive Condominium",Completed,9,"Central Region","River Valley"
+"1-10 floor",201901,2019-01-31,Freehold,5,"LE REGAL",700,1038,Resale,"Non-landed Properties",Completed,14,"Central Region",Geylang
+"1-10 floor",201901,2019-01-31,Non-Freehold,4,"MANDARIN GARDENS",1800,887,Resale,"Executive Condominium",Completed,15,"East Region",Bedok
+"1-10 floor",201901,2019-01-31,Non-Freehold,9,"THE CLEARWATER",1000,976,Resale,"Executive Condominium",Completed,16,"East Region",Bedok
+"1-10 floor",201901,2019-01-31,Freehold,5,"THE STERLING",750,1816,Resale,"Executive Condominium",Completed,21,"Central Region","Bukit Timah"
+"1-10 floor",201901,2019-01-31,Non-Freehold,8,"BARTLEY RESIDENCES",1000,1428,Resale,"Non-landed Properties",Completed,19,"North East Region",Serangoon

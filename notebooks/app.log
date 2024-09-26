@@ -60,3 +60,6 @@
 2024-09-11 16:08:51,887 - Comm - WARNING - No such comm: 386dbcf3-6280-4a43-8b50-d99881d8d329
 2024-09-15 11:24:25,666 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/IS630 Group Project
 2024-09-15 11:24:25,677 - config - INFO - TQDM logging setup complete.
+2024-09-25 22:30:26,798 - config - INFO - PROJ_ROOT path is: /Users/jinkettyee/Desktop/PycharmProjects/HDB-statistics
+2024-09-25 22:30:26,808 - config - INFO - TQDM logging setup complete.
+2024-09-26 18:13:05,530 - config - INFO - Loading CSV file from /Users/jinkettyee/Desktop/PycharmProjects/HDB-statistics/data/raw/condo_rentals.csv
